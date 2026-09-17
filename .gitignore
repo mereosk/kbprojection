@@ -168,3 +168,5 @@ debug_*.py
 !/experiment_results/scoring_diagnostics/REPORT.md
 !/experiment_results/scoring_diagnostics/summary.csv
 !/experiment_results/scoring_diagnostics/manifest.json
+
+CLAUDE.md

@@ -1,0 +1,201 @@
+id,premise,hypothesis,explanation
+esnli_test_33,A man reads the paper in a bar with green lighting.,The man is inside.,In a bar means the man could be inside.
+esnli_test_75,A man in a black shirt is looking at a bike in a workshop.,A man is in a black shirt,A man in a black shirt is the same as a man who is in a black shirt.
+esnli_test_131,A large number of people wearing only white and red are walking on a street.,A large number of people walking on a street.,People wearing only white and red are a type of people.
+esnli_test_295,A girl holding a beverage points at a painting.,The girl has a beverage.,She is holding the beverage that she has.
+esnli_test_313,A man in an Alaska sweatshirt stands behind a counter.,The person behind the counter is a man.,"The person, that is behind the counter, is a man."
+esnli_test_354,A boy is riding down the road between two cows.,"A boy, a road and two cows.",The boy rides and there are two cows.
+esnli_test_376,A woman in tennis clothes running to hit a ball with her tennis racket.,A woman plays tennis.,A woman plays tennis with a racket.
+esnli_test_379,Several women are playing volleyball.,They women are hitting a ball with their arms,"For women to play volleyball, they must hit the ball with their arms."
+esnli_test_508,A homeless man pushes an overfilled plastic blue shopping cart.,A man has a shopping cart,"In order to push a shopping cart, he must have a shopping cart."
+esnli_test_537,Young boy wearing pajamas lying down in bed and sleeping on a colorful striped pillow.,A young boy is sleeping on a pillow.,Sleeping on a pillow is a rephrasing of sleeping on a colorful striped pillow.
+esnli_test_555,"One young boy in a yellow long-sleeved shirt and jeans sitting down, with five adults in front of him, one operating a video camera.",An adult using a video camera.,Operating is another way to say using.
+esnli_test_670,Villagers pulling in the fish boat.,There are people pulling a boat.,Villagers are people.
+esnli_test_760,A young boy in red leaping into sand at a playground.,A child is playing in the sand.,A boy is a child which means he is playing in the sand.
+esnli_test_796,a young boy using a field microscope to identify a field specimen during a field trip.,The boy is looking through a microscope.,The boy is looking through the microscope because he is using the microscope.
+esnli_test_832,A group of footballs players is standing behind a coaching official.,There are multiple people present.,group of football players implies that there are  multiple people  present.
+esnli_test_861,Several women wearing dresses dance in the forest.,there are several women,Several women is present in both sentences.
+esnli_test_941,"A man wearing dark knee boots, a green cape, and a hat with two big feathers on the front is sitting by himself on a bench in front of a building with a blue and white patterned piece of wheeled luggage to his right while he rests both his hands on a walking stick.",A man with a walking stick sits by himself.,A man with a walking stick sits is part of his overall description wearing dark knee boots.
+esnli_test_953,A young boy in a hoodie climbs a red slide sitting on a red and green checkered background.,A boy is playing.,The boy is a boy because he is a young boy.
+esnli_test_1035,A crowd of people are packed into a subway car.,A crowd of people are together.,"If people are packed into a subway car, the people are together."
+esnli_test_1079,A person with an orange shovel is shoveling snow.,There is snow outside,Shoveling snow implies outside.
+esnli_test_1096,A woman teaching a ballet class composed of small children holding colourful scarves.,A woman is teaching a ballet class.,A ballet class can be composed of small children.
+esnli_test_1107,Three girls are standing and talking to each other.,Three girls are talking,Talking to each other is a form of talking.
+esnli_test_1148,A black dog is digging in the snow.,A dark colored dog digging through the snow,A black dog is a dark colored dog.
+esnli_test_1201,"A man holding some sort of vegetables while his wife in a red sweater stares to the side, and his daughter in a red sweater looks at the camera.",A man holds a vegetable.,Some sort of a vegetable is surely a vegetable.
+esnli_test_1212,A light colored dog leaps over a hurdle.,A dog jumps over a obstacel.,The hurdle is the obstacle that the dog is jumping over.
+esnli_test_1215,Man with beard doing skateboarding stunt,A man skateboards.,Man with beard is a type of man.
+esnli_test_1271,A man in a white and gray shirt looks on as a shirtless man with a mustache cleans fish on a pale green table.,The man watches the other clean a fish.,The man watches because he looks on.
+esnli_test_1311,A pale colored dog runs through a body of water.,A dog runs through some water.,A body of water is some form of water.
+esnli_test_1335,A guy in glasses is biting into a pink marshmallow chick while somebody else is puckering their lips out wanting a bite.,A man is eating a marshmallow.,The man eating a marshmallow while someone else wants a bite.
+esnli_test_1363,Players from two opposing teams wearing colorful cleats struggle to gain control over a ball on an AstroTurf field.,The players are playing a sport.,Gain control over a ball is a form of playing a sport.
+esnli_test_1485,Several people in blue scrubs and one in a skirt and black blouse.,There are people wearing scrubs.,People wearing scrubs are wearing scrubs irrespective of the color.
+esnli_test_1641,An Asian young woman wearing a white shirt and black pants is holding a pink purse.,The woman is holding a purse.,The young Asian woman is holding the pink purse
+esnli_test_1656,Kids work at computers with a teacher's help.,The kids sit in front of computers.,"To work at a computer, you must be in front of the computer."
+esnli_test_1691,A band playing on stage in a club.,Musicians are playing their instruments at a venue,a band are musicians the stage is at the venue
+esnli_test_1819,A band performing at a local bar or club.,The band is playing music,When a band performs it is playing music.
+esnli_test_1848,Men work on a city street.,The men are working,Men work on a city street must be working.
+esnli_test_1874,"A young man, wearing a T-shirt that says Joplin, plays the guitar in front of a large amplifier.",The young man is a guitar player,A guitar player plays the guitar.
+esnli_test_1893,The guitarist performs a rocking solo.,the musician is performing,A guitarist is a specific type of musician.
+esnli_test_1898,Three adults are working in a garden near a fence in the yard.,The three adults are outside in the garden.,If they are in a garden they are outside.
+esnli_test_1916,A little girl with pointy pigtails is sitting in the sand on the beach.,The girl is sitting on the beach.,A girl sitting on the sand on the beach must be sitting on the beach.
+esnli_test_1930,A young boy plays on a pile of rocks.,A boy is playing on rocks.,If a boy plays on rocks they are on a pile.
+esnli_test_1940,A man in a pinstriped suit walks down the street and does n't notice the quirky poster on his left.,A male has clothes on and is outside walking down the street.,A pinstripe suit is clothes. Walking down a street would require you to be outside.
+esnli_test_2033,"A man in a hard hat, gray t-shirt and holding a cordless drill saluting in front of a large American flag.",A man saluting the American Flag.,A man saluting in front of a large American flag is saluting the American Flag.
+esnli_test_2122,A couple walking down the street.,People walking outside,A couple usually refers to people; streets are outside.
+esnli_test_2287,A lady in pink long-sleeved blouse is holding a pink bag in her lap as she reaches something to the guy next to her.,Lady with matching pink bag and blouse reaches toward man next to her.,"IF the lady next to the man, then the lady is next to the guy."
+esnli_test_2375,2 women and 2 girls crossing the road,There are 4 female humans who are moving.,"Women and girls are both female humans and crossing the road implies movement, so 4 female humans are the 2 women and 2 girls who are moving across the road."
+esnli_test_2517,A white man taking a photo in front of water.,A man is in front of water.,A man taking a photo in front of water implies a man is in front of water.
+esnli_test_2532,Very young boy is standing outside near a water fountain that is built into the ground and is squirting water.,The boy is standing near a water fountain.,"In both scenarios, a boy is standing near a water fountain."
+esnli_test_2552,A woman in a blue striped shirt is talking to someone on the street.,A woman talking to someone.,Both woman are talking to someone.
+esnli_test_2584,An elderly woman wearing a skirt is picking out vegetables at a local market.,This woman is on a shopping trip.,A woman at a local market must be on a shopping trip.
+esnli_test_2626,Two men spar in martial arts gear.,There are multiple people present.,A spar is multiple people.
+esnli_test_2636,Two individuals use a photo kiosk,There are two individuals,"""There are two individuals"" is a shorter restatement of ""Two individuals use a photo kiosk""."
+esnli_test_2640,A young child plays on a beach next to an empty chair.,There is one child in this picture.,If there is only the young child then there is one child.
+esnli_test_2650,A man with a tan jacket with a full grocery bag is crossing the street.,The man is wearing a jacket.,Man with a tan jacket implies man is wearing a jacket.
+esnli_test_2680,asian women selling fruits from baskets at an outdoor market,asian women at a market,Asian women at outdoor market entails Asian women at market.
+esnli_test_2740,A student in a green shirt is writing in a notebook.,A person with a book,"A student is a person, if they have a notebook they have a book."
+esnli_test_2755,Three men on mountain bikes go over a sand hill.,Men on bikes go over a sand hill.,Three men (men being the plural form of man) are riding bikes that are mountain bikes.
+esnli_test_2802,"Two people, one wearing an orange jersey and a white belt, and another wearing a blue jersey and a red belt are playing flag football.",Two people play flag football.,"'Two people play flag football' is a less specific rephrasing, the appearances of the people playing are not described but their action is."
+esnli_test_2804,"Two people, one wearing an orange jersey and a white belt, and another wearing a blue jersey and a red belt are playing flag football.",Two people on oposite teams play flag football.,Two people are playing on opposite football teams.
+esnli_test_2944,Bubbles surround a statue in the middle of a street.,A statue is in the middle of the street.,Both have statues in the middle of the street.
+esnli_test_2947,"Two men stand in the road, it almost appears to be some sort of movie set on a sunny day in California.",Some people standing,Two men are some people.
+esnli_test_2964,"Four men are sitting in front of two large windows; one man is playing a guitar, one is playing the bongo drums, and two are sitting back without instruments.",The four men are in front of windows.,"""The four men are in front of windows."" is a rephrasing of ""Four men are sitting in front of two large windows; one man is playing a guitar, one is playing the bongo drums, and two are sitting back without instruments."""
+esnli_test_3023,Two women competing in a roller derby with several teammates and referee in the background.,Two roller derby competitors skate quickly ahead of teammates.,the women is in a roller derby so the competitors skate in the roller derby
+esnli_test_3169,"A girl is swinging, rather high, on a swing with blue ropes with lots of trees in the background.","A girl is swinging, rather high, on a swing with blue ropes.","The girl is swinging, rather high, on a swing with the same color ropes implies that the girl is the same girl in both sentences."
+esnli_test_3175,Two young ladies walking down the street together.,"There are two woman in this picture, and they are both outside.","Two young ladies are two woman, and street implies outside."
+esnli_test_3188,"Two little girls, wearing pink hanging on a tube.",Two girls playing on a tube.,Hanging on a tube is playing on a tube.
+esnli_test_3189,A family smiling on the couch.,People are on a couch,It is inferred that the people sitting on the couch are a family.
+esnli_test_3216,A man wielding an electric razor is gleefully shaving away another man's hair.,There are multiple people present.,Two men are multiple people.
+esnli_test_3221,A man smiles while he shaves the head of another man.,A guy is cutting another man's hair.,A man shaving another man's head means that they are cutting their hair.
+esnli_test_3235,A white and a black dog fighting in a fenced in room.,The dogs are fighting.,The dogs are fighting  in a fenced in room.
+esnli_test_3262,Women sit on a beach as they watch men bring in a fishing net filled with fish in front of them.,People are gathered by the water.,"Women are people, and on a beach implies by the water."
+esnli_test_3327,"A man on a bike, with the sun beating down in the background, just launched off of a dirt ramp and is coming back down.",An bike rider jumping ramps on a sunny day.,If the sun is beating down it is a sunny day.
+esnli_test_3365,A man with his finger in his mouth is standing outside of an RV.,The man is standing.,"The man is a rephrasing of a man,"
+esnli_test_3369,Two teens trying to win a prize at a carnival.,Two humans are outdoors.,Two teens at a carnival implies that two humans are outdoors.
+esnli_test_3499,A man is looking at the camera posing for a photo with his arm around a woman who is looking away.,The man is looking at the camera.,"In both description, a man is looking at the camera."
+esnli_test_3542,A little girl has her arms around a little boy standing on a wooden bridge in the woods.,The children hug in the woods.,The children hug in the woods standing on a wooden bridge.
+esnli_test_3548,"A juggler wearing a plaid kilt and a green shirt, juggling.",A person juggles in a kilt.,Person juggling is mentioned in both sentences
+esnli_test_3611,Three friends are talking.,Three people are hanging out.,"If three people are hanging out, they are talking."
+esnli_test_3813,A man in a short Mohawk and beard.,A man with a short Mohawk and beard stands outside.,Answer: The man is with short mohawk and beard.
+esnli_test_3824,A woman in a green shirt is working within a large amount of vegetation that is at different stages of maturity.,The woman is working with plants.,""" Plants "" is another word for "" vegetation ""."
+esnli_test_3927,Man with black shirt and sunglasses makes something out of a balloon.,A man makes something from a balloon.,The man that makes something from a balloon makes it out of the balloon.
+esnli_test_4072,a group of people celebrate their asian culture.,A group of people celebrate.,Celebrate their asian culture is a form of celebrate.
+esnli_test_4118,A boy in an all blue uniform kicks a blue soccer ball in a grassy area.,A boy is playing in the grass.,Kicks a blue soccer ball is playing.
+esnli_test_4167,Shadowed cyclist jumps over camera at sunset as shadowed photographer films.,A cyclist is being filmed.,Photographer filming a cyclist is rephrased as cyclist is being filmed
+esnli_test_4300,children are sitting in chairs with a music stand in the background.,There is a group of people sitting.,"Children means several children, or a group, and they are sitting in both sentences."
+esnli_test_4343,An older man is speaking to a boy while both are sitting.,Older man talking,Speaking is a synonym for talking.
+esnli_test_4378,A cyclist in a red and white uniform is biking across a garage full of people.,There is a man riding a bicycle.,A cyclist biking implies riding a bicycle.
+esnli_test_4382,A golfer shoots his ball out of a sand trap.,The game of golf being played.,During the game of golf a golfer shoots his ball out of a sand trap.
+esnli_test_4412,A boy in a yellow t-shirt and pink sweater talks on a cellphone while riding a horse through a crowd of people who are looking on.,A boy has a yellow t-shirt and pink sweater.,If he is wearing the yellow shirt and pink sweater then he has them.
+esnli_test_4476,a man with beard sitting down playing an acoustic guitar.,A musician plays on his instrument.,The man with the beard is a musician.
+esnli_test_4516,A woman in a green flowered dress is holding a container of yarn animals.,A lady in a dress has a container of yarn toys.,Woman in a green flowered dress is a lady in a dress.
+esnli_test_4558,Two kids in blue wetsuits surf.,Two children surf.,"""Children"" is plural to describe there being two kids instead of one kid surfing."
+esnli_test_4565,"Runners in various athletic garb, as well as one individual in a spotted-green dragon costume, run to the right.",Runners see a dragon costumed person,Runners and individual with dragon costume run to right implies that runners see the dragon costumed person.
+esnli_test_4572,A man in a winter jacket and knit cap stand with his arms up at his side in a snow landscape.,A man is outside in the snow.,The man is outside in the snow because he is in a snow landscape.
+esnli_test_4594,"A bald, black man wearing safety glasses and a long-sleeved black shirt is using a pick and hammer to sculpt a sizable rock into art.",A black man with no hair is making a scultpure with a pick and a hammer.,A bald person has no hair.  Making a sculpture is to sculpt a sizable rock.
+esnli_test_4633,A man with a beer in his hand listens to a woman talk.,A man has a beer with him.,Beer in his hand shows that man has a beer with him.
+esnli_test_4753,A black dog is running through a marsh-like area.,A dog is running through a marshy area.,"A black dog can be commonly referred to as a dog, and ""a marshy area""is a rephrasing of ""a marsh-like area""."
+esnli_test_4795,A girl in black pants doing exercises.,A girl moving her muscles to get exercise in.,Doing exercise implies moving your muscles.
+esnli_test_4821,"A woman in a long, dark coat looks through trashcans in Winter.",A woman is exploring containers for something.,Woman looking through trashcans means she is exploring containers which should be for something.
+esnli_test_5055,A woman runs on the beach.,There is a person jogging by the shore.,A woman is a kind of person.  Jogging is a form of light running.  A shore are usually found on a beach.
+esnli_test_5085,Bearded black dressed male performer is displaying his skill by swinging a fire line in each hand in arcs.,A sideshow man in a black costume is performing a trick with fire for the audience.,Swinging a fire line is performing a trick.
+esnli_test_5087,A cart of large water containers is in front of two women who are standing as well as two women who are walking down the street.,The cart of water is large.,Cart of large water is rephrased as cart of water is large.
+esnli_test_5092,A helmeted male airborne on a bike on a dirt road.,A man ridding his bike.,Male airborne on a bike is man ridding his bike.
+esnli_test_5165,A fireman with a neon helmet and a pickaxe inspects some debris with a flashlight.,A fireman with an axe looks at some debris.,A fireman inspects some debris therefore looks at some debris while a pickaxe is an axe.
+esnli_test_5247,This woman is skiing down a snowy hill.,This woman is on a hill.,"""Skiing down"" would imply this woman is on a hill."
+esnli_test_5413,Two men with matching t-shirts fold a towel in the living room.,Two men are in the living room.,Both men are doing activities in the living room.
+esnli_test_5470,a breakdancer man is performing for the kids at school,A man is break dancing at a school,A break dancing man is a rephrasing of breakdancer man.
+esnli_test_5474,A child doing gymnastics,A child is doing gymnastics.,The child is doing gymnastics.
+esnli_test_5538,baseball player dressed in blue with a red helmet at home plate in front of a catcher and umpire swinging a bat,A baseball player is swinging a bat.,swinging a bat is same as swinging a bat
+esnli_test_5543,A male performer sings and plays the guitar in front of a microphone.,A man is singing a song.,"Sentence one already said that the man was singing and if he was singing, then he would have to be singing a song."
+esnli_test_5581,A wet black lab with a red collar is standing in the water.,A wet dog is outside.,A lab standing in water would therefore mean a wet dog is outside.
+esnli_test_5650,A man speaking with two women.,There are three people talking.,There are two women speaking with a man.
+esnli_test_5956,A young man appears bored in a restaurant.,A young person appears bored in a restaurant.,A young person and young man are the same as he appears bored in a restaurant.
+esnli_test_6022,"Older men and women dancing in front of a stage, a man in a white hat twirling a woman in a red flower print skirt and white shirt.",Some old people perform onstage.,Dancing in front of a stage is to perform onstage.
+esnli_test_6038,A child floating on a blue raft while a woman holds on to him while a black dog swims nearby.,A person floating,A child is a person.
+esnli_test_6092,A woman in a red shirt looks at a map while with a view of a river and several boats in the background.,"A woman looks at a map outdoors, a river and boats are behind her.",A woman in a red shirt looks at a map entails woman looking at map outdoors as part of the description of a river and boats in the background or behind her.
+esnli_test_6111,A woman in a gray sweatshirt is sitting on the floor with her small dog that is wrapped in a blanket.,The woman is near her dog.,"Woman sitting with a dog implies that she is sitting near the dog. Thus, she is near the dog."
+esnli_test_6138,"Group of people standing on a snow covered ground, some are holding brooms, there is a dog with the group.",Group of people with a dog nearby are outside.,Snow is outside and so are the dog and people.
+esnli_test_6380,You can see the bottom halves of three boys standing on a sidewalk with silly string sprayed everywhere,There are three boys standing.,Bottom halves of three boys are three boys.
+esnli_test_6394,The blond girl is opening her drink as she speaks to the person with her.,The girl is talking to someone while opening a drink.,As she speaks to someone means the same as talking to someone.
+esnli_test_6436,A girl with curly hair and wearing a patriotic shirt is looking at a monarch butterfly sitting on her left index finger.,A girl and a butterfly,Monarch butterfly is a type of butterfly
+esnli_test_6460,A dog catching a Frisbee.,An animal is making contact with a toy.,"A dog is an animal, catching is a way of making contact, and a frisbee is a toy."
+esnli_test_6469,A man in a red sweatshirt pushes a giant redwood tree in a snowy forest.,A man next to a tree.,A man pushes a giant redwood tree by standing next to the tree.
+esnli_test_6491,A small girl in a green shirt plays on a swing.,girl plays swing,A girl in a green shirt plays on a swing.
+esnli_test_6498,A man wearing noise-canceling headphones and a breathing mask works on a white sculpture.,a man wearing headphones working on a sculpture,"Noise-cancelling headphones are a type of headphones, and works on is a rephrasing of ""working on""."
+esnli_test_6573,Black and yellow teams are trying to get the basketball in the goal.,Two teams are playing a sport.,Get the basketball in the goal is playing a sport.
+esnli_test_6574,"People are coming down a movable staircase built through a tunnel, which has three of those staircases.",People are descending in a tunnel.,Coming down a staircase is inarguably descending; doing so through a tunnel is therefore descending in a tunnel.
+esnli_test_6654,Scientists frantically research ways to finally eliminate male baldness.,Scientists are working on a cure,Research implies working.
+esnli_test_6669,A bald man is getting out of a small blue car.,The man is bald.,A bald man is the same as a man who is bald.
+esnli_test_6708,"Three little kids on a swing set; one is upside down, one hanging from the top bar, and on a swing.",three kids on a swing set,Three kids on a swing set and kids by itself denotes they are little or small in age.
+esnli_test_6766,A white dog is running on a rocky beach.,The dog is white.,White describes the dog running on the beach.
+esnli_test_6767,A white dog is running on a rocky beach.,A dog is on the beach.,Rocky beach is a type of beach where a dog can run
+esnli_test_6831,"A man wearing a red shirt with the number 54 hits a baseball, while a catcher prepares to catch the ball.",A red shirted batter hits the pitch.,A man in a red shirt who hits a baseball is known as a batter.
+esnli_test_6949,3 Olympic winners posing for a photo on an advertised background,Some people are having their photo taken.,Posing for a photograph implies their photo is being taken.
+esnli_test_7011,A squirrel stands on its hind legs in the grass at the edge of a road.,A squirrel is situated in an upright position near the road.,Standing on its hind legs is an upright position.  Edge of the road is still near the road.
+esnli_test_7021,"Two people kickboxing, with others spectating.",Two people fighting each other,"Two people are kickboxing, so they are fighting each other."
+esnli_test_7075,City street crowded with sports fans wearing orange.,The sports fans are wearing orange shirts.,"""The sports fans are wearing orange shirts"" is a rephrasing of ""sports fans wearing orange."""
+esnli_test_7091,Man sleeping in a couch in a sitting position wearing a blue jeans and a plaided shirt,There is someone sleeping on the couch.,Someone may also be described as a man.
+esnli_test_7155,"A group of Amish people, men and women, standing at a fence overlooking a forest and river.",Several people are standing outside near water.,People are standing at a fence near water.
+esnli_test_7161,A boy and a girl stand in a median amongst Mike Huckabee signs.,Two people stand on a median with advertising signs.,"A boy and a girl are two people, Mike Huckabee signs are a specific type of advertising signs, this is a simpler rephrasing."
+esnli_test_7222,"Children, including one with a painted face, pet tiny turtles that are crawling in the green grass.",Turtles are crawling in the green grass.,"""Tiny turtles are crawling in the green grass"" is a rephrasing of ""Turtles that are crawling in the green grass."""
+esnli_test_7241,A woman in a red dress is walking on the sidewalk.,The woman in a red dress is outdoors.,Walking on the sidewalk implies outdoors.
+esnli_test_7311,A yellow car drives across a snowy path.,A yellow car is driving in the snow in the winter.,The car is driving the snowy snow covered path.
+esnli_test_7314,A guy surfing in a lake or river while a boat is pulling him,That man is on a surfboard.,A guy is a man and if surfing means he is on a surfboard.
+esnli_test_7416,"A young woman dressed up semi-formally is reading book and drinking in the sun, seated on a bench.",A young woman reads near the ocean.,"A book is used for reading, and the sun is often related to the ocean/beach."
+esnli_test_7494,The racing greyhounds have broken from the starting gate.,The dogs are racing down the track.,Greyhounds are dogs.
+esnli_test_7523,Two men are fixing the side of an old brick building.,People fixing a building,Fixing the brick building is same as fixing a building and two mean are people.
+esnli_test_7539,A man and women sleeping outside on a bench.,A man and women sleeping together outside on a park bench.,outside bench refers to park bench
+esnli_test_7609,A surfer is performing a jumping stunt in the ocean.,A person in the water.,the ocean is made of water.
+esnli_test_7615,A woman is standing at a podium.,A person is at a podium.,A woman is a person.
+esnli_test_7659,A man with a red beard and mustache is smiling and wearing a hat crocheted with green yarn and Miller beer cans.,A man with a red beard and mustache.,A man with a red beard and mustache is simplified from the first sentence.
+esnli_test_7669,Basketball referee watching a team player hang from the hoop.,A referee watching a game.,Answer:  Hoop is a game
+esnli_test_7675,Four human figures are backlit by a sunset.,A beautiful sunset shows the shapes of four figures silhouetted against it's backdrop,"Four human figures are four figures, and beautiful sunset is a type of sunset."
+esnli_test_7687,A man and women walking down the street holding bags in their hands and smiling both wearing black and white clothes.,A woman and a man walk down the street.,Walking down the street is a rephrasing of walk down the street.
+esnli_test_7705,"A blond headed child in yellow boots and yellow jacket vest playing in the gravel with his pail, shovel and trucks.",A blonde girl is playing.,The blonde child is a girl and she is playing.
+esnli_test_7757,A group in uniform marches carrying red signs with Chinese lettering on them.,a uniformed group carry signs written in Chinese,Carrying red signs with Chinese lettering is paraphrasing carry signs written in Chinese.
+esnli_test_7778,Two men stand in the center of a clearing with mountains in the background.,men at the center of a clearing,Sentence two is a rephrasing of two men stand in the center of a clearing.
+esnli_test_7845,A black-haired man is entertaining a crowd with a hula hoop.,A man has black hair.,The man has black hair
+esnli_test_7911,A man pointing into the ear wearing a striped shirt in a small boat filled with many people.,A man is pointing into the ear and wearing a striped shirt.,"""small boat"" described where the man in the striped shirt is standing."
+esnli_test_8001,A smiling girl walking and a frowning girl with a phone.,A smiling girl walking and a frowning girl with a cellphone.,A cellphone is a type of phone.
+esnli_test_8079,A soccer player in white kicks a ball as another soccer player lunges towards the ball and a third soccer player in red follows close by.,The players are all trying to get the ball from the opposing team.,"The soccer player who kicks a ball, and the one who lunges towards the ball and the one who follows close by, are most likely trying to get the ball from the opposing team according to the rules of soccer."
+esnli_test_8129,Two lacrosse players are running on the sports-field.,Some of the people in the picture are at least fairly athletic.,"Two means more than one, and Lacrosse players who are running implies they are athletic."
+esnli_test_8131,A woman wearing a gray sweater stands in the street near a green pole.,A person wearing a sweating in a street,a person that is a women who wears grey sweater in the street
+esnli_test_8146,A girl in a red and white uniform is swinging a bat.,A girl in uniform is swinging.,A girl is swinging a bat.
+esnli_test_8167,Five young indian girls dress in colorful dresses are holding hands and smiling forming a circle,Five girls are playing together.,"If five girls are holding hands and forming a circle together, it would follow that the girls are playing together."
+esnli_test_8179,People waiting on a train platform.,People are waiting.,Waiting on a train platform indicates the people are waiting.
+esnli_test_8221,Two furry beige dogs playing in ocean surf.,Two dogs are playing on a beach.,"Two furry beige dogs are two dogs, and ocean surf implies beach."
+esnli_test_8340,A little girl in a pink dress crying.,An upset little girl is throwing a tantrum.,Throwing a tantrum is a rephrasing of crying.
+esnli_test_8377,Two brown and white dogs running on a grassy but brown fenced yard.,Canines traverse a sealed expanse.,Dogs are canines and sealed expense is a fenced yard.
+esnli_test_8381,A man with a blue helmet and orange shirt.,A man wears a helmet.,The man wears a helmet.
+esnli_test_8414,a man giving two thumbs up to a crowd.,The crowd watches him,A man gives two thumbs up to someone that watches him.
+esnli_test_8551,"An old man, likely a blacksmith, is welding a tool, seen by the red hot scorching look of it.","An older man, probably a blacksmith, is welding a tool, seen by the red hot scorching look of it.",An old blacksmith is welding a red hot scorching tool
+esnli_test_8574,A well dressed elderly woman standing in front of a bus decorated with images of purple flowers.,A woman is standing in front of a well decorated bus.,Elderly woman is also a woman while describing her activity in front of a decorated bus.
+esnli_test_8594,A man sits behind a decorated table inside a room with fabrics draped down the walls.,Man sitting near table in a fabric-draped room.,Sitting behind a table is still near a table.
+esnli_test_8609,Four people walk across stepping stones in a body of water.,Four people are standing up.,In order for one to walk they must be standing up.
+esnli_test_8624,A worker shoveling dirt into a wheelbarrow.,A worker uses a shovel.,The worker has to use a shovel if he is shoveling dirt.
+esnli_test_8708,A woman in a headscarf sitting in front of a loom.,a woman is sitting,Sitting in front of a loom implies the woman is sitting.
+esnli_test_8717,Women are working and digging in a field.,Women are digging.,The women are digging
+esnli_test_8795,Hikers walk along some tough terrain.,Hiking pace along rough terrain.,Hikers describes who is hiking. Pace describes the walk.
+esnli_test_8844,"A guy with piercings, tattoos and a mohawk is looking at the camera while lounging in a chair.",A man is in a chair.,A man is a guy.
+esnli_test_8856,A young boy is taking American flags to place them where they will remind others of the sacrifices made by veterans.,A young boy is honoring fallen veterans.,A boy is honoring fallen veterans and reminding others of the sacrifices they made by placing American flags.
+esnli_test_8898,A beach boardwalk during summertime.,A wooden path towards the shore.,A beach boardwalk is a wooden path.
+esnli_test_8919,A couple walks hand-in-hand in front of Victorian-style building and a wall with a large sleeping baby painted on it.,A couple walks in front of a building.,A couple walks in front of a building is less descriptive way of saying of saying couple walks hand-in-hand in from of Victorian-style building.
+esnli_test_8962,A man throws his young boy playfully into the air standing on a beach.,A man and a boy is playing on the beach.,A man is playing by throwing his young boy into the air.
+esnli_test_9012,A choir practicing in a church.,A group of singers sings.,The choir consists of a group of singers.
+esnli_test_9052,A young girl wearing a flora shirt is sitting in tub in brown water with the remnants of a snake.,A girl is sitting in a tub with part of a snake.,A girl is part of her description of being young girl and sitting with part of snake is rephrase of sitting with remnants of snake.
+esnli_test_9088,A boy splashing through the ocean.,The boy is swimming.,Splashing through the ocean is a form of swimming.
+esnli_test_9095,"Two women are sitting at a table, one is holding a baby and another child is playing on the floor.",There are two women and two children.,When they say one child and another that implies that there are two children.
+esnli_test_9110,"Two uniformed women, wearing jackets saying 'Politie' on the back, are looking at each other in front of a crowd.",The women are wearing clothes,Uniformed women implies women are wearing clothes.
+esnli_test_9165,A man playing the guitar while smoking a cigarette.,A man is playing guitar,The man smoking a cigarette is the same man that is playing the guitar.
+esnli_test_9168,Two young boys are playing with a toy train set on a wood floor.,The floor is made of wood.,Wood floor implies floor is made of wood.
+esnli_test_9227,A public speaker in a plaid shirt speaks on the microphone.,A person addresses a crowd.,A public speaker is someone who addresses a crowd.
+esnli_test_9261,A hurried bicycler moves along a car in a busy street on an allowed bike path.,The cyclist rides on a public street.,A bicycler and cyclist are the same and they're riding on a street.
+esnli_test_9294,A cobblestone street lined with houses and some pedestrians milling around.,Humans are outside meandering around.,"Pedestrians are humans and they are on a cobblestone street, they must be outside and milling is another way of saying meandering."
+esnli_test_9447,A woman holding a newborn baby.,woman holds baby,A newborn baby is a type of baby.
+esnli_test_9605,An emergency worker directs a man pulling a sled with emergency equipment on a snowy path.,An emergency worker helps outdoors.,"An emergency worker is on a snowy path which is outdoors, directing a man that he helps by giving him direction."
+esnli_test_9617,A man with a half mask over his face is holding a toy helicopter in his left hand and a controller in is his right hand.,A person is holding two objects.,A person is holding a controller.
+esnli_test_9630,A man interviews a boy in a gathering of people.,A man interviews a boy.,A boy in a gathering of people is a type of boy.
+esnli_test_9658,A skier is heading into a grove of trees.,There is snow on the ground in this picture.,A skier requires snow.
+esnli_test_9820,Two women are observing something together.,Two girls are looking at something.,Observing is a synonym for looking.

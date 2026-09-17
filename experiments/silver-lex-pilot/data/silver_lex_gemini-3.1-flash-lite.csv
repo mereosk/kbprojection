@@ -1,0 +1,601 @@
+id,lex_relations,raw_llm_output,error
+esnli_test_33,"isa_wn(bar, inside)","[KB_START]
+isa_wn(bar, inside)
+[KB_END]",
+esnli_test_75,,"[KB_START]
+[KB_END]",
+esnli_test_131,,"[KB_START]
+[KB_END]
+explanation: The human explanation describes a case of discarding modifiers (""wearing only white and red""), which is a trivial relation explicitly disallowed by the provided rules. Therefore, the KB remains empty.",
+esnli_test_295,"isa_wn(hold, have)","[KB_START]
+isa_wn(hold, have)
+[KB_END]",
+esnli_test_313,,"[KB_START]
+[KB_END]",
+esnli_test_354,,"[KB_START]
+[KB_END]",
+esnli_test_376,"isa_wn(tennis clothes, play tennis)","[KB_START]
+isa_wn(tennis clothes, play tennis)
+[KB_END]",
+esnli_test_379,"isa_wn(play volleyball, hit ball with arm)","[KB_START]
+isa_wn(play volleyball, hit ball with arm)
+[KB_END]",
+esnli_test_508,,"[KB_START]
+[KB_END]
+explanation: The human explanation relies on a logical inference (if one pushes an object, one has that object) rather than a lexical entailment between words or phrases. No lexical substitution is proposed.",
+esnli_test_537,,"[KB_START]
+[KB_END]",
+esnli_test_555,"isa_wn(operate, use)","[KB_START]
+isa_wn(operate, use)
+[KB_END]",
+esnli_test_670,"isa_wn(villager, person)","[KB_START]
+isa_wn(villager, person)
+[KB_END]",
+esnli_test_760,"isa_wn(boy, child) ;; isa_wn(leap, play)","[KB_START]
+isa_wn(boy, child)
+isa_wn(leap, play)
+[KB_END]",
+esnli_test_796,"isa_wn(use, look through)","[KB_START]
+isa_wn(use, look through)
+[KB_END]",
+esnli_test_832,"isa_wn(group of football player, multiple people)","[KB_START]
+isa_wn(group of football player, multiple people)
+[KB_END]",
+esnli_test_861,,"[KB_START]
+[KB_END]",
+esnli_test_941,,"[KB_START]
+[KB_END]",
+esnli_test_1035,"isa_wn(pack into, be together)","[KB_START]
+isa_wn(pack into, be together)
+[KB_END]",
+esnli_test_953,,"[KB_START]
+[KB_END]
+explanation: The human explanation only addresses the subject (""the boy is a boy because he is a young boy""), which is a trivial identity relation, and does not provide a lexical bridge between the actions ""climbs a slide"" and ""playing"". Since no lexical substitution is provided to bridge the action gap, the KB remains empty.",
+esnli_test_1096,,"[KB_START]
+[KB_END]",
+esnli_test_1079,"isa_wn(shoveling snow, snow outside)","[KB_START]
+isa_wn(shoveling snow, snow outside)
+[KB_END]",
+esnli_test_1107,,"[KB_START]
+[KB_END]
+explanation: The explanation describes a syntactic simplification where a reciprocal construction is reduced to its base predicate, not a lexical substitution of one term for another. As per the instructions, since no non-trivial lexical substitution is needed, the KB is empty.",
+esnli_test_1148,"isa_wn(black, dark colored)","[KB_START]
+isa_wn(black, dark colored)
+[KB_END]",
+esnli_test_1201,"isa_wn(vegetables, vegetable)","[KB_START]
+isa_wn(vegetables, vegetable)
+[KB_END]",
+esnli_test_1212,"isa_wn(leap, jump) ;; isa_wn(hurdle, obstacle)","[KB_START]
+isa_wn(leap, jump)
+isa_wn(hurdle, obstacle)
+[KB_END]",
+esnli_test_1271,"isa_wn(look on, watch)","[KB_START]
+isa_wn(look on, watch)
+[KB_END]",
+esnli_test_1215,,"[KB_START]
+[KB_END]
+explanation: The human explanation only addresses the subject ""man with beard"" being a type of ""man"" (a modifier-dropping relation, which is forbidden per the instructions). The rest of the entailment follows from the premise's description of a skateboarding stunt being a restatement/entailment of the activity ""skateboards"", but no valid lexical bridge was provided or is necessary as per the constraints.",
+esnli_test_1311,"isa_wn(body of water, water)","[KB_START]
+isa_wn(body of water, water)
+[KB_END]",
+esnli_test_1335,"isa_wn(guy, man) ;; isa_wn(bite into, eat) ;; isa_wn(marshmallow chick, marshmallow)","[KB_START]
+isa_wn(guy, man)
+isa_wn(bite into, eat)
+isa_wn(marshmallow chick, marshmallow)
+[KB_END]",
+esnli_test_1363,"isa_wn(gain control over a ball, play a sport)","[KB_START]
+isa_wn(gain control over a ball, play a sport)
+[KB_END]",
+esnli_test_1485,"isa_wn(blue scrub, scrub)","[KB_START]
+isa_wn(blue scrub, scrub)
+[KB_END]",
+esnli_test_1641,,"[KB_START]
+[KB_END]
+explanation: The human explanation states that the hypothesis follows by simply identifying the subject and object mentioned in the premise. The hypothesis is a generalized statement of the premise, involving the removal of adjectives and modifiers (e.g., ""Asian"", ""young"", ""white shirt"", ""black pants"", ""pink""). Since this relies on the removal of modifiers rather than non-trivial lexical substitution, the KB is empty.",
+esnli_test_1656,"isa_wn(work at computer, sit in front of computer)","[KB_START]
+isa_wn(work at computer, sit in front of computer)
+[KB_END]",
+esnli_test_1819,"isa_wn(perform, play music)","[KB_START]
+isa_wn(perform, play music)
+[KB_END]",
+esnli_test_1848,,"[KB_START]
+[KB_END]",
+esnli_test_1874,"isa_wn(play the guitar, guitar player)","[KB_START]
+isa_wn(play the guitar, guitar player)
+[KB_END]",
+esnli_test_1691,"isa_wn(band, musician) ;; isa_wn(stage, venue)","[KB_START]
+isa_wn(band, musician)
+isa_wn(stage, venue)
+[KB_END]",
+esnli_test_1893,"isa_wn(guitarist, musician)","[KB_START]
+isa_wn(guitarist, musician)
+[KB_END]",
+esnli_test_1898,"isa_wn(garden, outside)","[KB_START]
+isa_wn(garden, outside)
+[KB_END]",
+esnli_test_1916,,"[KB_START]
+[KB_END]",
+esnli_test_1930,,"[KB_START]
+[KB_END]",
+esnli_test_1940,"isa_wn(man, male) ;; isa_wn(pinstriped suit, clothes) ;; isa_wn(street, outside)","[KB_START]
+isa_wn(man, male)
+isa_wn(pinstriped suit, clothes)
+isa_wn(street, outside)
+[KB_END]",
+esnli_test_2033,,"[KB_START]
+[KB_END]",
+esnli_test_2122,"isa_wn(couple, people) ;; isa_wn(street, outside)","[KB_START]
+isa_wn(couple, people)
+isa_wn(street, outside)
+[KB_END]",
+esnli_test_2287,"isa_wn(guy, man)","[KB_START]
+isa_wn(guy, man)
+[KB_END]",
+esnli_test_2375,"isa_wn(woman, female human) ;; isa_wn(girl, female human) ;; isa_wn(cross, move)","[KB_START]
+isa_wn(woman, female human)
+isa_wn(girl, female human)
+isa_wn(cross, move)
+[KB_END]",
+esnli_test_2517,,"[KB_START]
+[KB_END]",
+esnli_test_2532,,"[KB_START]
+[KB_END]",
+esnli_test_2552,,"[KB_START]
+[KB_END]",
+esnli_test_2584,"isa_wn(pick out vegetable, shop)","[KB_START]
+isa_wn(pick out vegetable, shop)
+[KB_END]",
+esnli_test_2626,"isa_wn(man, person) ;; isa_wn(spar, multiple person)","[KB_START]
+isa_wn(man, person)
+isa_wn(spar, multiple person)
+[KB_END]",
+esnli_test_2636,,"[KB_START]
+[KB_END]",
+esnli_test_2650,"isa_wn(tan jacket, jacket)","[KB_START]
+isa_wn(tan jacket, jacket)
+[KB_END]",
+esnli_test_2640,"isa_wn(young child, child)","[KB_START]
+isa_wn(young child, child)
+[KB_END]",
+esnli_test_2680,"isa_wn(outdoor market, market)","[KB_START]
+isa_wn(outdoor market, market)
+[KB_END]",
+esnli_test_2740,"isa_wn(student, person) ;; isa_wn(notebook, book)","[KB_START]
+isa_wn(student, person)
+isa_wn(notebook, book)
+[KB_END]",
+esnli_test_2755,,"[KB_START]
+[KB_END]
+explanation: The hypothesis is a generalized version of the premise formed by removing the quantifier ""three"" and the modifier ""mountain"". Removing modifiers is a trivial relation, so the KB remains empty.",
+esnli_test_2802,,"[KB_START]
+[KB_END]",
+esnli_test_2944,,"[KB_START]
+[KB_END]",
+esnli_test_2804,"isa_wn(orange jersey, opposite team) ;; isa_wn(blue jersey, opposite team)","[KB_START]
+isa_wn(orange jersey, opposite team)
+isa_wn(blue jersey, opposite team)
+[KB_END]",
+esnli_test_2964,,"[KB_START]
+[KB_END]",
+esnli_test_2947,"isa_wn(man, person)","[KB_START]
+isa_wn(man, person)
+[KB_END]",
+esnli_test_3169,,"[KB_START]
+[KB_END]",
+esnli_test_3023,"isa_wn(roller derby, skate quickly)","[KB_START]
+isa_wn(roller derby, skate quickly)
+[KB_END]",
+esnli_test_3188,"isa_wn(hang, play)","[KB_START]
+isa_wn(hang, play)
+[KB_END]",
+esnli_test_3175,"isa_wn(young lady, woman) ;; isa_wn(street, outside)","[KB_START]
+isa_wn(young lady, woman)
+isa_wn(street, outside)
+[KB_END]",
+esnli_test_3189,"isa_wn(family, people)","[KB_START]
+isa_wn(family, people)
+[KB_END]",
+esnli_test_3216,"isa_wn(two man, multiple people)","[KB_START]
+isa_wn(two man, multiple people)
+[KB_END]",
+esnli_test_3235,,"[KB_START]
+[KB_END]",
+esnli_test_3221,"isa_wn(man, guy) ;; isa_wn(shave, cut hair)","[KB_START]
+isa_wn(man, guy)
+isa_wn(shave, cut hair)
+[KB_END]",
+esnli_test_3262,"isa_wn(woman, person) ;; isa_wn(beach, water)","[KB_START]
+isa_wn(woman, person)
+isa_wn(beach, water)
+[KB_END]",
+esnli_test_3327,"isa_wn(sun beating down, sunny day)","[KB_START]
+isa_wn(sun beating down, sunny day)
+[KB_END]",
+esnli_test_3365,,"[KB_START]
+[KB_END]",
+esnli_test_3369,"isa_wn(teen, human) ;; isa_wn(carnival, outdoors)","[KB_START]
+isa_wn(teen, human)
+isa_wn(carnival, outdoors)
+[KB_END]",
+esnli_test_3499,,"[KB_START]
+[KB_END]",
+esnli_test_3542,"isa_wn(little girl, child) ;; isa_wn(little boy, child) ;; isa_wn(have arms around, hug)","[KB_START]
+isa_wn(little girl, child)
+isa_wn(little boy, child)
+isa_wn(have arms around, hug)
+[KB_END]",
+esnli_test_3611,"isa_wn(friend, person) ;; isa_wn(talk, hang out)","[KB_START]
+isa_wn(friend, person)
+isa_wn(talk, hang out)
+[KB_END]",
+esnli_test_3548,"isa_wn(juggler, person)","[KB_START]
+isa_wn(juggler, person)
+[KB_END]",
+esnli_test_3813,,"[KB_START]
+[KB_END]
+explanation: The human explanation states that the hypothesis is essentially a restatement of the premise, confirming the man possesses the described traits; no lexical substitution is identified that would necessitate a knowledge base entry.",
+esnli_test_3824,"isa_wn(vegetation, plant)","[KB_START]
+isa_wn(vegetation, plant)
+[KB_END]",
+esnli_test_4072,,"[KB_START]
+[KB_END]",
+esnli_test_3927,,"[KB_START]
+[KB_END]",
+esnli_test_4167,,"[KB_START]
+[KB_END]",
+esnli_test_4118,"isa_wn(kick, play)","[KB_START]
+isa_wn(kick, play)
+[KB_END]",
+esnli_test_4300,"isa_wn(children, group of people)","[KB_START]
+isa_wn(children, group of people)
+[KB_END]",
+esnli_test_4343,"isa_wn(speak, talk)","[KB_START]
+isa_wn(speak, talk)
+[KB_END]",
+esnli_test_4378,"isa_wn(cyclist, man) ;; isa_wn(bike, bicycle) ;; isa_wn(bike, ride)","[KB_START]
+isa_wn(cyclist, man)
+isa_wn(bike, bicycle)
+isa_wn(bike, ride)
+[KB_END]",
+esnli_test_4382,,"[KB_START]
+[KB_END]",
+esnli_test_4412,"isa_wn(in, have)","[KB_START]
+isa_wn(in, have)
+[KB_END]",
+esnli_test_4476,"isa_wn(man, musician) ;; isa_wn(acoustic guitar, instrument)","[KB_START]
+isa_wn(man, musician)
+isa_wn(acoustic guitar, instrument)
+[KB_END]",
+esnli_test_4516,"isa_wn(woman, lady) ;; isa_wn(yarn animal, yarn toy)","[KB_START]
+isa_wn(woman, lady)
+isa_wn(yarn animal, yarn toy)
+[KB_END]",
+esnli_test_4558,"isa_wn(kid, child)","[KB_START]
+isa_wn(kid, child)
+[KB_END]",
+esnli_test_4572,"isa_wn(snow landscape, outside in the snow)","[KB_START]
+isa_wn(snow landscape, outside in the snow)
+[KB_END]",
+esnli_test_4565,,"[KB_START]
+[KB_END]
+explanation: The human explanation relies on a social/event-based inference (""run to right"" implies ""see"") rather than a lexical substitution that defines one phrase as a type of another. Since no lexical bridge is provided, the KB is empty.",
+esnli_test_4594,"isa_wn(bald, no hair) ;; isa_wn(sculpt, make sculpture)","[KB_START]
+isa_wn(bald, no hair)
+isa_wn(sculpt, make sculpture)
+[KB_END]",
+esnli_test_4633,,"[KB_START]
+[KB_END]
+explanation: The human explanation describes a logical relationship based on possession and situational context (""beer in his hand"" implies ""has a beer with him"") rather than a direct lexical substitution (isa_wn). Therefore, an empty KB is provided as no non-trivial lexical entailment is supported by the explanation.",
+esnli_test_4795,"isa_wn(do exercise, move muscle)","[KB_START]
+isa_wn(do exercise, move muscle)
+[KB_END]",
+esnli_test_4753,"isa_wn(marsh-like area, marshy area)","[KB_START]
+isa_wn(marsh-like area, marshy area)
+[KB_END]",
+esnli_test_4821,"isa_wn(trashcan, container) ;; isa_wn(look through, explore)","[KB_START]
+isa_wn(trashcan, container)
+isa_wn(look through, explore)
+[KB_END]",
+esnli_test_5055,"isa_wn(woman, person) ;; isa_wn(run, jog) ;; isa_wn(beach, shore)","[KB_START]
+isa_wn(woman, person)
+isa_wn(run, jog)
+isa_wn(beach, shore)
+[KB_END]",
+esnli_test_5085,"isa_wn(swing a fire line, perform a trick)","[KB_START]
+isa_wn(swing a fire line, perform a trick)
+[KB_END]",
+esnli_test_5087,,"[KB_START]
+[KB_END]
+explanation: The human explanation states that the hypothesis is a rephrasing of the premise, which does not involve non-trivial lexical substitutions.",
+esnli_test_5092,"isa_wn(male, man) ;; isa_wn(airborne on a bike, ride bike)","[KB_START]
+isa_wn(male, man)
+isa_wn(airborne on a bike, ride bike)
+[KB_END]",
+esnli_test_5165,"isa_wn(pickaxe, axe) ;; isa_wn(inspect, look at)","[KB_START]
+isa_wn(pickaxe, axe)
+isa_wn(inspect, look at)
+[KB_END]",
+esnli_test_5247,,"[KB_START]
+[KB_END]
+explanation: The human explanation relies on a spatial inference (if someone is skiing down X, they are on X) rather than a direct lexical substitution of phrases. As per the instructions, do not use event implications as lexical entailment, so the KB is empty.",
+esnli_test_5413,,"[KB_START]
+[KB_END]",
+esnli_test_5474,,"[KB_START]
+[KB_END]",
+esnli_test_5470,,"[KB_START]
+[KB_END]",
+esnli_test_5538,,"[KB_START]
+[KB_END]",
+esnli_test_5543,"isa_wn(male performer, man) ;; isa_wn(sing, sing a song)","[KB_START]
+isa_wn(male performer, man)
+isa_wn(sing, sing a song)
+[KB_END]",
+esnli_test_5581,"isa_wn(black lab, dog) ;; isa_wn(in the water, outside)","[KB_START]
+isa_wn(black lab, dog)
+isa_wn(in the water, outside)
+[KB_END]",
+esnli_test_5650,"isa_wn(man, person) ;; isa_wn(woman, person) ;; isa_wn(speak, talk)","[KB_START]
+isa_wn(man, person)
+isa_wn(woman, person)
+isa_wn(speak, talk)
+[KB_END]",
+esnli_test_5956,"isa_wn(young man, young person)","[KB_START]
+isa_wn(young man, young person)
+[KB_END]",
+esnli_test_6022,"isa_wn(older men and women, old people) ;; isa_wn(dance, perform) ;; isa_wn(in front of a stage, onstage)","[KB_START]
+isa_wn(older men and women, old people)
+isa_wn(dance, perform)
+isa_wn(in front of a stage, onstage)
+[KB_END]",
+esnli_test_6038,"isa_wn(child, person)","[KB_START]
+isa_wn(child, person)
+[KB_END]",
+esnli_test_6092,"isa_wn(view of a river and several boats in the background, a river and boats are behind her)","[KB_START]
+isa_wn(view of a river and several boats in the background, a river and boats are behind her)
+[KB_END]",
+esnli_test_6111,,"[KB_START]
+[KB_END]
+explanation: The human explanation relies on a spatial inference (that sitting with something implies proximity) rather than a lexical substitution or paraphrase between phrases. Therefore, no lexical entailment relation is needed to bridge the gap.",
+esnli_test_6380,,"[KB_START]
+[KB_END]",
+esnli_test_6138,"isa_wn(snow covered ground, outside)","[KB_START]
+isa_wn(snow covered ground, outside)
+[KB_END]",
+esnli_test_6394,"isa_wn(speak, talk)","[KB_START]
+isa_wn(speak, talk)
+[KB_END]",
+esnli_test_6436,"isa_wn(monarch butterfly, butterfly)","[KB_START]
+isa_wn(monarch butterfly, butterfly)
+[KB_END]",
+esnli_test_6469,,"[KB_START]
+[KB_END]
+explanation: The human explanation suggests that the entailment follows from spatial positioning (""standing next to"") implied by the action of pushing, which is an inference based on world knowledge/spatial logic rather than a lexical entailment (isa_wn) relationship between specific phrases. Therefore, the KB is empty.",
+esnli_test_6460,"isa_wn(dog, animal) ;; isa_wn(catch, make contact) ;; isa_wn(frisbee, toy)","[KB_START]
+isa_wn(dog, animal)
+isa_wn(catch, make contact)
+isa_wn(frisbee, toy)
+[KB_END]",
+esnli_test_6491,,"[KB_START]
+[KB_END]",
+esnli_test_6498,"isa_wn(noise-canceling headphone, headphone)","[KB_START]
+isa_wn(noise-canceling headphone, headphone)
+[KB_END]",
+esnli_test_6573,"isa_wn(get basketball in goal, play sport)","[KB_START]
+isa_wn(get basketball in goal, play sport)
+[KB_END]",
+esnli_test_6574,"isa_wn(come down, descend)","[KB_START]
+isa_wn(come down, descend)
+[KB_END]",
+esnli_test_6669,,"[KB_START]
+[KB_END]",
+esnli_test_6654,"isa_wn(research, work)","[KB_START]
+isa_wn(research, work)
+[KB_END]",
+esnli_test_6708,,"[KB_START]
+[KB_END]",
+esnli_test_6766,,"[KB_START]
+[KB_END]",
+esnli_test_6831,"isa_wn(man, batter) ;; isa_wn(baseball, pitch)","[KB_START]
+isa_wn(man, batter)
+isa_wn(baseball, pitch)
+[KB_END]",
+esnli_test_6767,"isa_wn(rocky beach, beach)","[KB_START]
+isa_wn(rocky beach, beach)
+[KB_END]",
+esnli_test_7011,"isa_wn(stand on hind leg, be in upright position) ;; isa_wn(edge of road, near road)","[KB_START]
+isa_wn(stand on hind leg, be in upright position)
+isa_wn(edge of road, near road)
+[KB_END]",
+esnli_test_6949,"isa_wn(olympic winner, person) ;; isa_wn(pose for a photo, have photo taken)","[KB_START]
+isa_wn(olympic winner, person)
+isa_wn(pose for a photo, have photo taken)
+[KB_END]",
+esnli_test_7021,"isa_wn(kickboxing, fighting)","[KB_START]
+isa_wn(kickboxing, fighting)
+[KB_END]",
+esnli_test_7075,,"[KB_START]
+[KB_END]",
+esnli_test_7091,"isa_wn(man, someone)","[KB_START]
+isa_wn(man, someone)
+[KB_END]",
+esnli_test_7155,"isa_wn(river, water)","[KB_START]
+isa_wn(river, water)
+[KB_END]",
+esnli_test_7161,"isa_wn(boy and girl, two people) ;; isa_wn(mike huckabee sign, advertising sign)","[KB_START]
+isa_wn(boy and girl, two people)
+isa_wn(mike huckabee sign, advertising sign)
+[KB_END]",
+esnli_test_7222,,"[KB_START]
+[KB_END]",
+esnli_test_7241,"isa_wn(sidewalk, outdoors)","[KB_START]
+isa_wn(sidewalk, outdoors)
+[KB_END]",
+esnli_test_7311,"isa_wn(snowy path, snow in winter)","[KB_START]
+isa_wn(snowy path, snow in winter)
+[KB_END]",
+esnli_test_7416,,"[KB_START]
+[KB_END]
+explanation: The human explanation relies on world knowledge association (""sun is often related to the ocean/beach"") and contextual inference (""book is used for reading"") rather than a direct lexical substitution (isa_wn) between specific noun or verb phrases as defined by the provided rules. Thus, no lexical entailment relations are extracted.",
+esnli_test_7314,"isa_wn(guy, man) ;; isa_wn(surf, be on a surfboard)","[KB_START]
+isa_wn(guy, man)
+isa_wn(surf, be on a surfboard)
+[KB_END]",
+esnli_test_7494,"isa_wn(greyhound, dog)","[KB_START]
+isa_wn(greyhound, dog)
+[KB_END]",
+esnli_test_7539,"isa_wn(bench, park bench)","[KB_START]
+isa_wn(bench, park bench)
+[KB_END]",
+esnli_test_7523,"isa_wn(man, person)","[KB_START]
+isa_wn(man, person)
+[KB_END]",
+esnli_test_7615,"isa_wn(woman, person)","[KB_START]
+isa_wn(woman, person)
+[KB_END]",
+esnli_test_7609,"isa_wn(ocean, water)","[KB_START]
+isa_wn(ocean, water)
+[KB_END]",
+esnli_test_7659,,"[KB_START]
+[KB_END]",
+esnli_test_7669,"isa_wn(hoop, game)","[KB_START]
+isa_wn(hoop, game)
+[KB_END]",
+esnli_test_7675,,"[KB_START]
+[KB_END]",
+esnli_test_7687,,"[KB_START]
+[KB_END]",
+esnli_test_7705,"isa_wn(blond headed child, blonde girl)","[KB_START]
+isa_wn(blond headed child, blonde girl)
+[KB_END]",
+esnli_test_7757,,"[KB_START]
+[KB_END]",
+esnli_test_7778,,"[KB_START]
+[KB_END]",
+esnli_test_7911,,"[KB_START]
+[KB_END]",
+esnli_test_7845,,"[KB_START]
+[KB_END]",
+esnli_test_8001,"isa_wn(phone, cellphone)","[KB_START]
+isa_wn(phone, cellphone)
+[KB_END]",
+esnli_test_8079,,"[KB_START]
+[KB_END]
+explanation: The human explanation relies on world knowledge regarding the rules of the sport (soccer) to infer the intentions of the players, rather than on specific lexical substitutions or entailment relations between the phrases. Since no lexical bridge is provided, the KB is empty.",
+esnli_test_8129,"isa_wn(lacrosse player, athletic person)","[KB_START]
+isa_wn(lacrosse player, athletic person)
+[KB_END]",
+esnli_test_8131,"isa_wn(woman, person)","[KB_START]
+isa_wn(woman, person)
+[KB_END]",
+esnli_test_8146,,"[KB_START]
+[KB_END]",
+esnli_test_8167,"isa_wn(hold hand and form circle, play together)","[KB_START]
+isa_wn(hold hand and form circle, play together)
+[KB_END]",
+esnli_test_8179,,"[KB_START]
+[KB_END]",
+esnli_test_8221,"isa_wn(ocean surf, beach)","[KB_START]
+isa_wn(ocean surf, beach)
+[KB_END]",
+esnli_test_8377,"isa_wn(dog, canine) ;; isa_wn(fenced yard, sealed expanse)","[KB_START]
+isa_wn(dog, canine)
+isa_wn(fenced yard, sealed expanse)
+[KB_END]",
+esnli_test_8340,"isa_wn(cry, throw a tantrum)","[KB_START]
+isa_wn(cry, throw a tantrum)
+[KB_END]",
+esnli_test_8414,,"[KB_START]
+[KB_END]",
+esnli_test_8381,,"[KB_START]
+[KB_END]",
+esnli_test_8551,,"[KB_START]
+[KB_END]",
+esnli_test_8594,"isa_wn(behind, near)","[KB_START]
+isa_wn(behind, near)
+[KB_END]",
+esnli_test_8574,,"[KB_START]
+[KB_END]
+explanation: The explanation describes ""elderly woman"" as a ""woman"", but per the instruction ""Do not output modifier-dropping relations such as old woman -> woman"", this is considered a trivial relation. The rest of the hypothesis is a direct description of the activity and object already present in the premise.",
+esnli_test_8609,"isa_wn(walk, stand up)","[KB_START]
+isa_wn(walk, stand up)
+[KB_END]",
+esnli_test_8624,"isa_wn(shovel dirt, use a shovel)","[KB_START]
+isa_wn(shovel dirt, use a shovel)
+[KB_END]",
+esnli_test_8717,,"[KB_START]
+[KB_END]",
+esnli_test_8708,,"[KB_START]
+[KB_END]
+explanation: The human explanation describes a logical consequence based on the structure of the verb phrase (""sitting in front of a loom"" implies ""sitting""), rather than a substitution of lexical terms. Thus, the KB is empty.",
+esnli_test_8844,"isa_wn(guy, man)","[KB_START]
+isa_wn(guy, man)
+[KB_END]",
+esnli_test_8795,"isa_wn(walk, pace) ;; isa_wn(tough, rough)","[KB_START]
+isa_wn(walk, pace)
+isa_wn(tough, rough)
+[KB_END]",
+esnli_test_8856,"isa_wn(place american flag, honor) ;; isa_wn(veteran, fallen veteran)","[KB_START]
+isa_wn(place american flag, honor)
+isa_wn(veteran, fallen veteran)
+[KB_END]",
+esnli_test_8898,"isa_wn(beach boardwalk, wooden path)","[KB_START]
+isa_wn(beach boardwalk, wooden path)
+[KB_END]",
+esnli_test_8962,"isa_wn(throw into the air, play)","[KB_START]
+isa_wn(throw into the air, play)
+[KB_END]",
+esnli_test_8919,,"[KB_START]
+[KB_END]",
+esnli_test_9012,"isa_wn(choir, group of singer) ;; isa_wn(practice, sing)","[KB_START]
+isa_wn(choir, group of singer)
+isa_wn(practice, sing)
+[KB_END]",
+esnli_test_9052,"isa_wn(remnant, part)","[KB_START]
+isa_wn(remnant, part)
+[KB_END]",
+esnli_test_9088,"isa_wn(splash through ocean, swim)","[KB_START]
+isa_wn(splash through ocean, swim)
+[KB_END]",
+esnli_test_9095,"isa_wn(baby, child)","[KB_START]
+isa_wn(baby, child)
+[KB_END]",
+esnli_test_9110,"isa_wn(uniformed, wear cloth)","[KB_START]
+isa_wn(uniformed, wear cloth)
+[KB_END]",
+esnli_test_9165,,"[KB_START]
+[KB_END]",
+esnli_test_9168,,"[KB_START]
+[KB_END]
+explanation: The human explanation describes a syntactic decomposition of the compound noun ""wood floor"" into ""floor is made of wood."" This is a structural restatement rather than a lexical entailment (isa_wn) relationship between distinct vocabulary items.",
+esnli_test_9261,"isa_wn(bicycler, cyclist) ;; isa_wn(busy street, public street)","[KB_START]
+isa_wn(bicycler, cyclist)
+isa_wn(busy street, public street)
+[KB_END]",
+esnli_test_9227,"isa_wn(public speaker, person who address a crowd)","[KB_START]
+isa_wn(public speaker, person who address a crowd)
+[KB_END]",
+esnli_test_9294,"isa_wn(pedestrian, human) ;; isa_wn(mill, meander)","[KB_START]
+isa_wn(pedestrian, human)
+isa_wn(mill, meander)
+[KB_END]",
+esnli_test_9605,"isa_wn(snowy path, outdoors) ;; isa_wn(direct, help)","[KB_START]
+isa_wn(snowy path, outdoors)
+isa_wn(direct, help)
+[KB_END]",
+esnli_test_9447,"isa_wn(newborn baby, baby)","[KB_START]
+isa_wn(newborn baby, baby)
+[KB_END]",
+esnli_test_9617,"isa_wn(man, person) ;; isa_wn(toy helicopter, object) ;; isa_wn(controller, object)","[KB_START]
+isa_wn(man, person)
+isa_wn(toy helicopter, object)
+isa_wn(controller, object)
+[KB_END]",
+esnli_test_9630,,"[KB_START]
+[KB_END]",
+esnli_test_9658,,"[KB_START]
+[KB_END]
+
+explanation: The explanation relies on world knowledge (a skier requires snow) rather than a lexical entailment (isa_wn) bridge between specific phrases in the premise and hypothesis.",
+esnli_test_9820,"isa_wn(observe, look)","[KB_START]
+isa_wn(observe, look)
+[KB_END]",

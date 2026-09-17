@@ -1,0 +1,523 @@
+id,lex_relations,raw_llm_output,error
+esnli_test_75,,"[KB_START]
+[KB_END]",
+esnli_test_131,,"[KB_START]
+[KB_END]",
+esnli_test_33,,"[KB_START]
+[KB_END]",
+esnli_test_313,,"[KB_START]
+[KB_END]",
+esnli_test_354,,"[KB_START]
+[KB_END]",
+esnli_test_295,"isa_wn(hold, have)","[KB_START]
+isa_wn(hold, have)
+[KB_END]",
+esnli_test_376,,"[KB_START]
+[KB_END]",
+esnli_test_379,,"[KB_START]
+[KB_END]",
+esnli_test_508,,"[KB_START]
+[KB_END]",
+esnli_test_537,,"[KB_START]
+[KB_END]",
+esnli_test_555,"isa_wn(operate, use)","[KB_START]
+isa_wn(operate, use)
+[KB_END]",
+esnli_test_670,"isa_wn(villager, person)","[KB_START]
+isa_wn(villager, person)
+[KB_END]",
+esnli_test_760,"isa_wn(boy, child)","[KB_START]
+isa_wn(boy, child)
+[KB_END]",
+esnli_test_796,,"[KB_START]
+[KB_END]",
+esnli_test_832,"isa_wn(football player, person)","[KB_START]
+isa_wn(football player, person)
+[KB_END]",
+esnli_test_861,,"[KB_START]
+[KB_END]",
+esnli_test_941,,"[KB_START]
+[KB_END]",
+esnli_test_953,,"[KB_START]
+[KB_END]",
+esnli_test_1035,,"[KB_START]
+[KB_END]",
+esnli_test_1079,,"[KB_START]
+[KB_END]",
+esnli_test_1096,,"[KB_START]
+[KB_END]",
+esnli_test_1148,"isa_wn(black, dark colored)","[KB_START]
+isa_wn(black, dark colored)
+[KB_END]",
+esnli_test_1107,,"[KB_START]
+[KB_END]",
+esnli_test_1201,,"[KB_START]
+[KB_END]",
+esnli_test_1212,"isa_wn(leap, jump) ;; isa_wn(hurdle, obstacle)","[KB_START]
+isa_wn(leap, jump)
+isa_wn(hurdle, obstacle)
+[KB_END]",
+esnli_test_1215,,"[KB_START]
+[KB_END]",
+esnli_test_1271,"isa_wn(look on, watch)","[KB_START]
+isa_wn(look on, watch)
+[KB_END]",
+esnli_test_1311,,"[KB_START]
+[KB_END]",
+esnli_test_1335,"isa_wn(guy, man) ;; isa_wn(bite into, eat) ;; isa_wn(marshmallow chick, marshmallow)","[KB_START]
+isa_wn(guy, man)
+isa_wn(bite into, eat)
+isa_wn(marshmallow chick, marshmallow)
+[KB_END]",
+esnli_test_1363,"isa_wn(gain control, play sport)","[KB_START]
+isa_wn(gain control, play sport)
+[KB_END]",
+esnli_test_1641,,"[KB_START]
+[KB_END]",
+esnli_test_1485,,"[KB_START]
+[KB_END]",
+esnli_test_1656,,"[KB_START]
+[KB_END]",
+esnli_test_1691,"isa_wn(band, musician) ;; isa_wn(stage, venue)","[KB_START]
+isa_wn(band, musician)
+isa_wn(stage, venue)
+[KB_END]",
+esnli_test_1848,,"[KB_START]
+[KB_END]",
+esnli_test_1819,"isa_wn(perform, play music)","[KB_START]
+isa_wn(perform, play music)
+[KB_END]",
+esnli_test_1893,"isa_wn(guitarist, musician)","[KB_START]
+isa_wn(guitarist, musician)
+[KB_END]",
+esnli_test_1874,"isa_wn(play guitar, guitar player)","[KB_START]
+isa_wn(play guitar, guitar player)
+[KB_END]",
+esnli_test_1898,,"[KB_START]
+[KB_END]",
+esnli_test_1916,,"[KB_START]
+[KB_END]",
+esnli_test_1930,,"[KB_START]
+[KB_END]",
+esnli_test_2033,,"[KB_START]
+[KB_END]",
+esnli_test_1940,"isa_wn(pinstriped suit, clothes)","[KB_START]
+isa_wn(pinstriped suit, clothes)
+[KB_END]",
+esnli_test_2122,"isa_wn(couple, people) ;; isa_wn(street, outside)","[KB_START]
+isa_wn(couple, people)
+isa_wn(street, outside)
+[KB_END]",
+esnli_test_2287,"isa_wn(guy, man)","[KB_START]
+isa_wn(guy, man)
+[KB_END]",
+esnli_test_2517,,"[KB_START]
+[KB_END]",
+esnli_test_2375,"isa_wn(woman, female human) ;; isa_wn(girl, female human) ;; isa_wn(cross, move)","[KB_START]
+isa_wn(woman, female human)
+isa_wn(girl, female human)
+isa_wn(cross, move)
+[KB_END]",
+esnli_test_2552,,"[KB_START]
+[KB_END]",
+esnli_test_2532,,"[KB_START]
+[KB_END]",
+esnli_test_2584,,"[KB_START]
+[KB_END]",
+esnli_test_2636,,"[KB_START]
+[KB_END]",
+esnli_test_2640,,"[KB_START]
+[KB_END]",
+esnli_test_2650,,"[KB_START]
+[KB_END]",
+esnli_test_2680,,"[KB_START]
+[KB_END]",
+esnli_test_2626,"isa_wn(two men, multiple people)","[KB_START]
+isa_wn(two men, multiple people)
+[KB_END]",
+esnli_test_2740,"isa_wn(student, person) ;; isa_wn(notebook, book)","[KB_START]
+isa_wn(student, person)
+isa_wn(notebook, book)
+[KB_END]",
+esnli_test_2755,"isa_wn(mountain bike, bike)","[KB_START]
+isa_wn(mountain bike, bike)
+[KB_END]",
+esnli_test_2802,,"[KB_START]
+[KB_END]",
+esnli_test_2804,,"[KB_START]
+[KB_END]",
+esnli_test_2944,,"[KB_START]
+[KB_END]",
+esnli_test_2947,"isa_wn(men, people)","[KB_START]
+isa_wn(men, people)
+[KB_END]",
+esnli_test_2964,,"[KB_START]
+[KB_END]",
+esnli_test_3169,,"[KB_START]
+[KB_END]",
+esnli_test_3023,,"[KB_START]
+[KB_END]",
+esnli_test_3175,"isa_wn(young lady, woman) ;; isa_wn(street, outside)","[KB_START]
+isa_wn(young lady, woman)
+isa_wn(street, outside)
+[KB_END]",
+esnli_test_3189,"isa_wn(family, people)","[KB_START]
+isa_wn(family, people)
+[KB_END]",
+esnli_test_3188,"isa_wn(hang, play)","[KB_START]
+isa_wn(hang, play)
+[KB_END]",
+esnli_test_3216,"isa_wn(man, person)","[KB_START]
+isa_wn(man, person)
+[KB_END]",
+esnli_test_3221,"isa_wn(man, guy) ;; isa_wn(shave head, cut hair)","[KB_START]
+isa_wn(man, guy)
+isa_wn(shave head, cut hair)
+[KB_END]",
+esnli_test_3235,,"[KB_START]
+[KB_END]",
+esnli_test_3262,"isa_wn(woman, person)","[KB_START]
+isa_wn(woman, person)
+[KB_END]",
+esnli_test_3365,,"[KB_START]
+[KB_END]",
+esnli_test_3327,"isa_wn(sun beating down, sunny)","[KB_START]
+isa_wn(sun beating down, sunny)
+[KB_END]",
+esnli_test_3369,"isa_wn(teen, human)","[KB_START]
+isa_wn(teen, human)
+[KB_END]",
+esnli_test_3499,,"[KB_START]
+[KB_END]",
+esnli_test_3548,"isa_wn(juggler, person)","[KB_START]
+isa_wn(juggler, person)
+[KB_END]",
+esnli_test_3611,,"[KB_START]
+[KB_END]",
+esnli_test_3813,,"[KB_START]
+[KB_END]",
+esnli_test_3824,"isa_wn(vegetation, plants)","[KB_START]
+isa_wn(vegetation, plants)
+[KB_END]",
+esnli_test_3542,"isa_wn(little girl, child) ;; isa_wn(little boy, child) ;; isa_wn(have arms around, hug)","[KB_START]
+isa_wn(little girl, child)
+isa_wn(little boy, child)
+isa_wn(have arms around, hug)
+[KB_END]",
+esnli_test_3927,,"[KB_START]
+[KB_END]",
+esnli_test_4072,"isa_wn(celebrate asian culture, celebrate)","[KB_START]
+isa_wn(celebrate asian culture, celebrate)
+[KB_END]",
+esnli_test_4118,"isa_wn(kick soccer ball, play) ;; isa_wn(grassy area, grass)","[KB_START]
+isa_wn(kick soccer ball, play)
+isa_wn(grassy area, grass)
+[KB_END]",
+esnli_test_4167,,"[KB_START]
+[KB_END]",
+esnli_test_4343,"isa_wn(speak, talk)","[KB_START]
+isa_wn(speak, talk)
+[KB_END]",
+esnli_test_4300,"isa_wn(child, person)","[KB_START]
+isa_wn(child, person)
+[KB_END]",
+esnli_test_4378,"isa_wn(bike, ride bicycle)","[KB_START]
+isa_wn(bike, ride bicycle)
+[KB_END]",
+esnli_test_4382,,"[KB_START]
+[KB_END]",
+esnli_test_4476,,"[KB_START]
+[KB_END]",
+esnli_test_4412,"isa_wn(wear, have)","[KB_START]
+isa_wn(wear, have)
+[KB_END]",
+esnli_test_4516,"isa_wn(woman, lady)","[KB_START]
+isa_wn(woman, lady)
+[KB_END]",
+esnli_test_4558,"isa_wn(kid, child)","[KB_START]
+isa_wn(kid, child)
+[KB_END]",
+esnli_test_4565,,"[KB_START]
+[KB_END]",
+esnli_test_4572,,"[KB_START]
+[KB_END]",
+esnli_test_4594,"isa_wn(bald, no hair) ;; isa_wn(sculpt, make sculpture)","[KB_START]
+isa_wn(bald, no hair)
+isa_wn(sculpt, make sculpture)
+[KB_END]",
+esnli_test_4633,,"[KB_START]
+[KB_END]",
+esnli_test_4753,,"[KB_START]
+[KB_END]",
+esnli_test_4795,"isa_wn(exercise, move muscle)","[KB_START]
+isa_wn(exercise, move muscle)
+[KB_END]",
+esnli_test_4821,"isa_wn(trashcan, container) ;; isa_wn(look through, explore)","[KB_START]
+isa_wn(trashcan, container)
+isa_wn(look through, explore)
+[KB_END]",
+esnli_test_5085,"isa_wn(swing fire line, perform trick)","[KB_START]
+isa_wn(swing fire line, perform trick)
+[KB_END]",
+esnli_test_5087,,"[KB_START]
+[KB_END]",
+esnli_test_5055,"isa_wn(woman, person) ;; isa_wn(run, jog) ;; isa_wn(beach, shore)","[KB_START]
+isa_wn(woman, person)
+isa_wn(run, jog)
+isa_wn(beach, shore)
+[KB_END]",
+esnli_test_5092,"isa_wn(male, man)","[KB_START]
+isa_wn(male, man)
+[KB_END]",
+esnli_test_5165,"isa_wn(inspect, look at) ;; isa_wn(pickaxe, axe)","[KB_START]
+isa_wn(inspect, look at)
+isa_wn(pickaxe, axe)
+[KB_END]",
+esnli_test_5413,,"[KB_START]
+[KB_END]",
+esnli_test_5470,,"[KB_START]
+[KB_END]",
+esnli_test_5474,,"[KB_START]
+[KB_END]",
+esnli_test_5538,,"[KB_START]
+[KB_END]",
+esnli_test_5247,"isa_wn(ski down, on)","[KB_START]
+isa_wn(ski down, on)
+[KB_END]",
+esnli_test_5581,"isa_wn(lab, dog)","[KB_START]
+isa_wn(lab, dog)
+[KB_END]",
+esnli_test_5543,"isa_wn(male performer, man)","[KB_START]
+isa_wn(male performer, man)
+[KB_END]",
+esnli_test_5650,,"[KB_START]
+[KB_END]",
+esnli_test_5956,"isa_wn(man, person)","[KB_START]
+isa_wn(man, person)
+[KB_END]",
+esnli_test_6038,"isa_wn(child, person)","[KB_START]
+isa_wn(child, person)
+[KB_END]",
+esnli_test_6022,"isa_wn(dance, perform)","[KB_START]
+isa_wn(dance, perform)
+[KB_END]",
+esnli_test_6111,"isa_wn(sit with, near)","[KB_START]
+isa_wn(sit with, near)
+[KB_END]",
+esnli_test_6092,,"[KB_START]
+[KB_END]",
+esnli_test_6380,,"[KB_START]
+[KB_END]",
+esnli_test_6138,,"[KB_START]
+[KB_END]",
+esnli_test_6436,"isa_wn(monarch butterfly, butterfly)","[KB_START]
+isa_wn(monarch butterfly, butterfly)
+[KB_END]",
+esnli_test_6394,"isa_wn(speak, talk)","[KB_START]
+isa_wn(speak, talk)
+[KB_END]",
+esnli_test_6460,"isa_wn(dog, animal) ;; isa_wn(catch, make contact) ;; isa_wn(frisbee, toy)","[KB_START]
+isa_wn(dog, animal)
+isa_wn(catch, make contact)
+isa_wn(frisbee, toy)
+[KB_END]",
+esnli_test_6469,,"[KB_START]
+[KB_END]",
+esnli_test_6491,,"[KB_START]
+[KB_END]",
+esnli_test_6498,"isa_wn(noise-canceling headphones, headphones)","[KB_START]
+isa_wn(noise-canceling headphones, headphones)
+[KB_END]",
+esnli_test_6574,"isa_wn(come down, descend)","[KB_START]
+isa_wn(come down, descend)
+[KB_END]",
+esnli_test_6573,"isa_wn(basketball, sport)","[KB_START]
+isa_wn(basketball, sport)
+[KB_END]",
+esnli_test_6669,,"[KB_START]
+[KB_END]",
+esnli_test_6654,"isa_wn(research, work)","[KB_START]
+isa_wn(research, work)
+[KB_END]",
+esnli_test_6766,,"[KB_START]
+[KB_END]",
+esnli_test_6708,,"[KB_START]
+[KB_END]",
+esnli_test_6767,,"[KB_START]
+[KB_END]",
+esnli_test_6949,,"[KB_START]
+[KB_END]",
+esnli_test_6831,,"[KB_START]
+[KB_END]",
+esnli_test_7011,,"[KB_START]
+[KB_END]",
+esnli_test_7021,"isa_wn(kickbox, fight)","[KB_START]
+isa_wn(kickbox, fight)
+[KB_END]",
+esnli_test_7075,,"[KB_START]
+[KB_END]",
+esnli_test_7091,"isa_wn(man, someone)","[KB_START]
+isa_wn(man, someone)
+[KB_END]",
+esnli_test_7155,"isa_wn(river, water)","[KB_START]
+isa_wn(river, water)
+[KB_END]",
+esnli_test_7161,"isa_wn(boy and girl, two people) ;; isa_wn(mike huckabee sign, advertising sign)","[KB_START]
+isa_wn(boy and girl, two people)
+isa_wn(mike huckabee sign, advertising sign)
+[KB_END]",
+esnli_test_7222,,"[KB_START]
+[KB_END]",
+esnli_test_7241,,"[KB_START]
+[KB_END]",
+esnli_test_7311,,"[KB_START]
+[KB_END]",
+esnli_test_7314,"isa_wn(guy, man)","[KB_START]
+isa_wn(guy, man)
+[KB_END]",
+esnli_test_7416,,"[KB_START]
+[KB_END]",
+esnli_test_7494,"isa_wn(greyhound, dog)","[KB_START]
+isa_wn(greyhound, dog)
+[KB_END]",
+esnli_test_7523,"isa_wn(man, person)","[KB_START]
+isa_wn(man, person)
+[KB_END]",
+esnli_test_7609,"isa_wn(ocean, water)","[KB_START]
+isa_wn(ocean, water)
+[KB_END]",
+esnli_test_7615,"isa_wn(woman, person)","[KB_START]
+isa_wn(woman, person)
+[KB_END]",
+esnli_test_7539,,"[KB_START]
+[KB_END]",
+esnli_test_7659,,"[KB_START]
+[KB_END]",
+esnli_test_7675,,"[KB_START]
+[KB_END]",
+esnli_test_7687,,"[KB_START]
+[KB_END]",
+esnli_test_7669,"isa_wn(basketball, game)","[KB_START]
+isa_wn(basketball, game)
+[KB_END]",
+esnli_test_7757,,"[KB_START]
+[KB_END]",
+esnli_test_7705,,"[KB_START]
+[KB_END]",
+esnli_test_7778,,"[KB_START]
+[KB_END]",
+esnli_test_7911,,"[KB_START]
+[KB_END]",
+esnli_test_7845,,"[KB_START]
+[KB_END]",
+esnli_test_8079,,"[KB_START]
+[KB_END]",
+esnli_test_8001,"isa_wn(cellphone, phone)","[KB_START]
+isa_wn(cellphone, phone)
+[KB_END]",
+esnli_test_8131,"isa_wn(woman, person)","[KB_START]
+isa_wn(woman, person)
+[KB_END]",
+esnli_test_8146,,"[KB_START]
+[KB_END]",
+esnli_test_8129,"isa_wn(run, athletic)","[KB_START]
+isa_wn(run, athletic)
+[KB_END]",
+esnli_test_8167,,"[KB_START]
+[KB_END]",
+esnli_test_8179,,"[KB_START]
+[KB_END]",
+esnli_test_8221,"isa_wn(ocean surf, beach)","[KB_START]
+isa_wn(ocean surf, beach)
+[KB_END]",
+esnli_test_8340,"isa_wn(cry, throw tantrum)","[KB_START]
+isa_wn(cry, throw tantrum)
+[KB_END]",
+esnli_test_8381,,"[KB_START]
+[KB_END]",
+esnli_test_8377,"isa_wn(dog, canine) ;; isa_wn(fenced yard, sealed expanse)","[KB_START]
+isa_wn(dog, canine)
+isa_wn(fenced yard, sealed expanse)
+[KB_END]",
+esnli_test_8414,,"[KB_START]
+[KB_END]",
+esnli_test_8551,,"[KB_START]
+[KB_END]",
+esnli_test_8574,,"[KB_START]
+[KB_END]",
+esnli_test_8609,"isa_wn(walk, stand up)","[KB_START]
+isa_wn(walk, stand up)
+[KB_END]",
+esnli_test_8624,"isa_wn(shovel, use shovel)","[KB_START]
+isa_wn(shovel, use shovel)
+[KB_END]",
+esnli_test_8594,"isa_wn(behind, near)","[KB_START]
+isa_wn(behind, near)
+[KB_END]",
+esnli_test_8708,,"[KB_START]
+[KB_END]",
+esnli_test_8717,,"[KB_START]
+[KB_END]",
+esnli_test_8844,"isa_wn(guy, man)","[KB_START]
+isa_wn(guy, man)
+[KB_END]",
+esnli_test_8795,"isa_wn(tough, rough) ;; isa_wn(walk, pace)","[KB_START]
+isa_wn(tough, rough)
+isa_wn(walk, pace)
+[KB_END]",
+esnli_test_8856,,"[KB_START]
+[KB_END]",
+esnli_test_8919,,"[KB_START]
+[KB_END]",
+esnli_test_8962,"isa_wn(throw playfully, play)","[KB_START]
+isa_wn(throw playfully, play)
+[KB_END]",
+esnli_test_8898,"isa_wn(beach boardwalk, wooden path)","[KB_START]
+isa_wn(beach boardwalk, wooden path)
+[KB_END]",
+esnli_test_9012,"isa_wn(choir, group of singers)","[KB_START]
+isa_wn(choir, group of singers)
+[KB_END]",
+esnli_test_9052,"isa_wn(remnant, part)","[KB_START]
+isa_wn(remnant, part)
+[KB_END]",
+esnli_test_9088,"isa_wn(splash, swim)","[KB_START]
+isa_wn(splash, swim)
+[KB_END]",
+esnli_test_9095,,"[KB_START]
+[KB_END]",
+esnli_test_9165,,"[KB_START]
+[KB_END]",
+esnli_test_9168,,"[KB_START]
+[KB_END]",
+esnli_test_9110,"isa_wn(jacket, clothes)","[KB_START]
+isa_wn(jacket, clothes)
+[KB_END]",
+esnli_test_9261,"isa_wn(bicycler, cyclist)","[KB_START]
+isa_wn(bicycler, cyclist)
+[KB_END]",
+esnli_test_9294,"isa_wn(pedestrian, human) ;; isa_wn(mill around, meander around)","[KB_START]
+isa_wn(pedestrian, human)
+isa_wn(mill around, meander around)
+[KB_END]",
+esnli_test_9447,"isa_wn(newborn baby, baby)","[KB_START]
+isa_wn(newborn baby, baby)
+[KB_END]",
+esnli_test_9227,,"[KB_START]
+[KB_END]",
+esnli_test_9605,"isa_wn(path, outdoors) ;; isa_wn(direct, help)","[KB_START]
+isa_wn(path, outdoors)
+isa_wn(direct, help)
+[KB_END]",
+esnli_test_9630,,"[KB_START]
+[KB_END]",
+esnli_test_9617,"isa_wn(man, person) ;; isa_wn(toy helicopter, object) ;; isa_wn(controller, object)","[KB_START]
+isa_wn(man, person)
+isa_wn(toy helicopter, object)
+isa_wn(controller, object)
+[KB_END]",
+esnli_test_9658,,"[KB_START]
+[KB_END]",
+esnli_test_9820,"isa_wn(observe, look at)","[KB_START]
+isa_wn(observe, look at)
+[KB_END]",
