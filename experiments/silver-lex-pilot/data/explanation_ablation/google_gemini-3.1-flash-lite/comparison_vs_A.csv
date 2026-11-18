@@ -1,0 +1,7 @@
+﻿condition,non_entailment_policy,items_compared,f1_A,f1_condition,f1_diff_minus_A,ci95_low,ci95_high,share_of_resamples_condition_better,non_entailment_answers_A,non_entailment_answers_condition
+lasha_explanation,exclude,253,0.7216,0.7257,0.004,-0.0312,0.041,0.5712,130,80
+lasha_explanation_examples,exclude,253,0.7216,0.7065,-0.0151,-0.0501,0.0196,0.1922,130,90
+lasha_highlights,exclude,252,0.7229,0.715,-0.0078,-0.041,0.0264,0.3272,130,100
+lasha_explanation,always-wrong,280,0.6796,0.6939,0.0143,-0.0204,0.0511,0.7784,130,80
+lasha_explanation_examples,always-wrong,280,0.6796,0.6777,-0.0019,-0.037,0.0335,0.4526,130,90
+lasha_highlights,always-wrong,280,0.6796,0.6821,0.0025,-0.0317,0.0351,0.5558,130,100

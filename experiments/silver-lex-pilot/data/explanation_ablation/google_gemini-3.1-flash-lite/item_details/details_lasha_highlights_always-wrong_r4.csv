@@ -1,0 +1,281 @@
+﻿ID,prediction_column,best_reference_column,best_item_f1,tp,fp,fn,prediction_kb,best_reference_kb,position_sensitive_best_reference_column,position_sensitive_best_item_f1,position_sensitive_tp,position_sensitive_fp,position_sensitive_fn,argument_order_agnostic_best_reference_column,argument_order_agnostic_best_item_f1,argument_order_agnostic_tp,argument_order_agnostic_fp,argument_order_agnostic_fn,argument_order_agnostic_exact_match
+114368470.jpg#1r1e,KB,Stefan_KB,0.0,0,2,0,"isa_wn(stand in line, wait); isa_wn(grocery store, pay)",NO_RELATION,,nan,,,,,nan,,,,False
+1184967930.jpg#4r4e,KB,Stefan_KB,1.0,1,0,0,"isa_wn(field, grass)","(field, grass)",,nan,,,,,nan,,,,False
+119364730.jpg#3r1e,KB,Jorryt_KB,1.0,0,0,0,NO_RELATION,NO_RELATION,,nan,,,,,nan,,,,False
+1403064674.jpg#3r1e,KB,Ettore_KB,1.0,2,0,0,"isa_wn(guy, person); isa_wn(look, view)","(guy, person); (look, view)",,nan,,,,,nan,,,,False
+1405221276.jpg#4r1e,KB,Lasha_KB,0.0,0,2,0,"isa_wn(shake, shake off); isa_wn(dry, water)",NO_RELATION,,nan,,,,,nan,,,,False
+1425529973.jpg#2r1e,KB,Lasha_KB,1.0,2,0,0,"isa_wn(fish, aquatic life); isa_wn(scoop, move)","(fish, aquatic life); (scoop, move)",,nan,,,,,nan,,,,False
+147236031.jpg#1r1e,KB,Stefan_KB,1.0,2,0,0,"isa_wn(trim, cut); isa_wn(asparagus, vegetable)","(asparagus, vegetable); (trim, cut)",,nan,,,,,nan,,,,False
+158827073.jpg#2r1e,KB,Lasha_KB,1.0,1,0,0,"isa_wn(chocolate milk powder, food)","(chocolate milk powder, food)",,nan,,,,,nan,,,,False
+1796608106.jpg#4r1e,KB,Lasha_KB,1.0,1,0,0,"isa_wn(build, make)","(build, make)",,nan,,,,,nan,,,,False
+2021602343.jpg#2r1e,KB,Lasha_KB,1.0,1,0,0,"isa_wn(glower, scowl)","(glower, scowl)",,nan,,,,,nan,,,,False
+207584893.jpg#3r1e,KB,Stefan_KB,1.0,1,0,0,"isa_wn(hang glider, air sport)","(hang glider, air sport)",,nan,,,,,nan,,,,False
+2079152458.jpg#0r1e,KB,Stefan_KB,0.0,0,1,1,"isa_wn(golden-colored, light)","(golden-colored, light colored)",,nan,,,,,nan,,,,False
+2095711097.jpg#1r1e,KB,Stefan_KB,0.0,0,1,0,"isa_wn(lay concrete block, do concrete work)",NO_RELATION,,nan,,,,,nan,,,,False
+2109479807.jpg#0r1e,KB,Stefan_KB,1.0,2,0,0,"isa_wn(female, woman); isa_wn(atv, all terrain vehicle)","(atv, all terrain vehicle); (female, woman)",,nan,,,,,nan,,,,False
+2137789511.jpg#1r1e,KB,Stefan_KB,0.0,0,1,0,"isa_wn(sand beside ocean, beach)",NO_RELATION,,nan,,,,,nan,,,,False
+2195887578.jpg#2r1e,KB,Lasha_KB,1.0,1,0,0,"isa_wn(bus, large vehicle)","(bus, large vehicle)",,nan,,,,,nan,,,,False
+2201978994.jpg#1r1e,KB,Stefan_KB,1.0,1,0,0,"isa_wn(lakefront, lake)","(lakefront, lake)",,nan,,,,,nan,,,,False
+2208055895.jpg#4r1e,KB,Alternative_KB,1.0,2,0,0,"isa_wn(inside, within); isa_wn(snow fort, snowy structure)","(snow fort, snowy structure); (inside, within)",,nan,,,,,nan,,,,False
+2217728745.jpg#4r1e,KB,Stefan_KB,1.0,1,0,0,"isa_wn(man, guy)","(man, guy)",,nan,,,,,nan,,,,False
+2218743570.jpg#4r1n,KB,Stefan_KB,0.6666666666666666,1,1,0,"isa_wn(husky, dog); isa_wn(nuzzle, be friendly)","(husky, dog)",,nan,,,,,nan,,,,False
+2232255534.jpg#0r1e,KB,Alternative_KB,1.0,1,0,0,"isa_wn(slacks, pants)","(slacks, pants)",,nan,,,,,nan,,,,False
+2237364221.jpg#3r1e,KB,Stefan_KB,0.0,0,1,0,"isa_wn(try to get into shape, exercise)",NO_RELATION,,nan,,,,,nan,,,,False
+2255375425.jpg#2r1e,KB,Stefan_KB,1.0,0,0,0,NO_RELATION,NO_RELATION,,nan,,,,,nan,,,,False
+2275372714.jpg#3r1e,KB,Stefan_KB,0.0,0,1,0,"isa_wn(launch into air, fly)",NO_RELATION,,nan,,,,,nan,,,,False
+2276230068.jpg#4r1e,KB,Jorryt_KB,0.0,0,1,0,"isa_wn(shade, glass)",NO_RELATION,,nan,,,,,nan,,,,False
+2279906281.jpg#1r1e,KB,Ettore_KB,1.0,4,0,0,"isa_wn(shirtless, topless); isa_wn(man, male); isa_wn(film, record); isa_wn(soccer, sport)","(film, record); (man, male); (shirtless, topless); (soccer, sport)",,nan,,,,,nan,,,,False
+228280436.jpg#1r1e,KB,Ettore_KB,0.0,0,1,0,"isa_wn(fruit and vegetable, produce)",NO_RELATION,,nan,,,,,nan,,,,False
+23012662.jpg#4r1e,KB,Lasha_KB,1.0,1,0,0,"isa_wn(view, look at)","(view, look at)",,nan,,,,,nan,,,,False
+2343145630.jpg#0r4e,KB,Jorryt_KB,0.5,1,1,1,"isa_wn(spiked, pointy); isa_wn(bassist, person playing instrument)","(bassist, person); (spiked, pointy)",,nan,,,,,nan,,,,False
+2367387854.jpg#1r1e,KB,Stefan_KB,0.6666666666666666,1,0,1,"isa_wn(microphone, device)","(microphone, device); (talk, speak)",,nan,,,,,nan,,,,False
+237424188.jpg#0r1e,KB,Stefan_KB,1.0,0,0,0,NO_RELATION,NO_RELATION,,nan,,,,,nan,,,,False
+2384728877.jpg#0r1e,KB,Stefan_KB,1.0,0,0,0,NO_RELATION,NO_RELATION,,nan,,,,,nan,,,,False
+2393059551.jpg#1r1e,KB,Stefan_KB,1.0,0,0,0,NO_RELATION,NO_RELATION,,nan,,,,,nan,,,,False
+241345721.jpg#4r1e,KB,Lasha_KB,1.0,1,0,0,"isa_wn(football, game)","(football, game)",,nan,,,,,nan,,,,False
+241346508.jpg#0r1e,KB,Stefan_KB,0.0,0,1,1,"isa_wn(sooner, college football player)","(oklahoma sooner, college football player)",,nan,,,,,nan,,,,False
+2421824693.jpg#3r1e,KB,Stefan_KB,1.0,1,0,0,"isa_wn(rooftop, roof)","(rooftop, roof)",,nan,,,,,nan,,,,False
+2518094853.jpg#3r1e,KB,Stefan_KB,1.0,1,0,0,"isa_wn(field, outside)","(field, outside)",,nan,,,,,nan,,,,False
+2521878609.jpg#4r1e,KB,Lasha_KB,0.0,0,1,0,"isa_wn(kid, human)",NO_RELATION,,nan,,,,,nan,,,,False
+2529017800.jpg#1r1e,KB,Stefan_KB,1.0,1,0,0,"isa_wn(3, several)","(3, several)",,nan,,,,,nan,,,,False
+2533414541.jpg#3r1e,KB,Lasha_KB,1.0,1,0,0,"isa_wn(car, vehicle)","(car, vehicle)",,nan,,,,,nan,,,,False
+2543017787.jpg#4r1e,KB,Stefan_KB,0.6666666666666666,1,1,0,"isa_wn(child, kid); isa_wn(ride swing, play)","(child, kid)",,nan,,,,,nan,,,,False
+255091927.jpg#4r1e,KB,Jorryt_KB,0.0,0,1,0,"isa_wn(massage chair, chair)",NO_RELATION,,nan,,,,,nan,,,,False
+2565685680.jpg#0r1e,KB,Stefan_KB,0.0,0,1,2,"isa_wn(black fur, dark)","(black, dark); (splash about, play)",,nan,,,,,nan,,,,False
+2573969957.jpg#1r1e,KB,Jorryt_KB,1.0,1,0,0,"isa_wn(child, kid)","(child, kid)",,nan,,,,,nan,,,,False
+2602415701.jpg#0r1e,KB,Lasha_KB,1.0,2,0,0,"isa_wn(young boy, kid); isa_wn(jump, leap)","(jump, leap); (young boy, kid)",,nan,,,,,nan,,,,False
+261626276.jpg#0r1e,KB,Stefan_KB,0.5,2,1,3,"isa_wn(man, male); isa_wn(woman, female); isa_wn(young girl, female)","(girl, female); (man, male); (read, look at); (walk past, pass by); (woman, female)",,nan,,,,,nan,,,,False
+2618866067.jpg#4r1e,KB,Stefan_KB,0.0,0,1,0,NO_RELATION,NO_RELATION,,nan,,,,,nan,,,,False
+2647049174.jpg#4r1e,KB,Lasha_KB,1.0,1,0,0,"isa_wn(toddler, baby)","(toddler, baby)",,nan,,,,,nan,,,,False
+2665904080.jpg#1r1e,KB,Stefan_KB,0.0,0,1,0,NO_RELATION,NO_RELATION,,nan,,,,,nan,,,,False
+2671880562.jpg#3r1e,KB,Lasha_KB,0.0,0,1,1,"isa_wn(break-dance, move)","(break-dance, move around)",,nan,,,,,nan,,,,False
+2680990587.jpg#3r1e,KB,Stefan_KB,1.0,1,0,0,"isa_wn(boy, human)","(boy, human)",,nan,,,,,nan,,,,False
+2709648336.jpg#0r1e,KB,Stefan_KB,0.75,3,1,1,"isa_wn(dog, animal); isa_wn(jump, move vertically); isa_wn(hold, grip); isa_wn(mouth, teeth)","(dog, animal); (frisbee, toy); (hold, grip); (jump, move vertically)",,nan,,,,,nan,,,,False
+2714703706.jpg#0r1e,KB,Lasha_KB,0.0,0,1,0,"isa_wn(have hold of, grab)",NO_RELATION,,nan,,,,,nan,,,,False
+2723024306.jpg#3r1e,KB,Stefan_KB,1.0,1,0,0,"isa_wn(man, adult)","(man, adult)",,nan,,,,,nan,,,,False
+2726887594.jpg#4r1e,KB,Lasha_KB,1.0,1,0,0,"isa_wn(raise, hold)","(raise, hold)",,nan,,,,,nan,,,,False
+273699639.jpg#4r1e,KB,Lasha_KB,0.0,0,2,0,"isa_wn(woman, person); isa_wn(man, person)",NO_RELATION,,nan,,,,,nan,,,,False
+2741990005.jpg#4r1e,KB,Stefan_KB,1.0,1,0,0,"isa_wn(vault, jump)","(vault, jump)",,nan,,,,,nan,,,,False
+2744856447.jpg#3r1e,KB,Stefan_KB,0.0,0,1,0,"isa_wn(metal cup, liquid)",NO_RELATION,,nan,,,,,nan,,,,False
+2760560588.jpg#3r1e,KB,Stefan_KB,0.0,0,0,1,NO_RELATION,"(chalkboard, chalk board)",,nan,,,,,nan,,,,False
+2802158972.jpg#1r1e,KB,Alternative_KB,0.5,1,1,1,"isa_wn(man, person); isa_wn(play instrument, play music)","(instrument, music); (man, person)",,nan,,,,,nan,,,,False
+281271503.jpg#4r1e,KB,Stefan_KB,0.0,0,1,0,"isa_wn(juggling, juggling act)",NO_RELATION,,nan,,,,,nan,,,,False
+2843629756.jpg#0r1e,KB,Jorryt_KB,1.0,1,0,0,"isa_wn(signage, sign)","(signage, sign)",,nan,,,,,nan,,,,False
+2853682342.jpg#1r1e,KB,Lasha_KB,0.0,0,1,0,"isa_wn(in blue shirt, wear blue)",NO_RELATION,,nan,,,,,nan,,,,False
+2864340145.jpg#2r1e,KB,Stefan_KB,1.0,0,0,0,NO_RELATION,NO_RELATION,,nan,,,,,nan,,,,False
+288406480.jpg#0r1e,KB,Stefan_KB,1.0,2,0,0,"isa_wn(pretend, role play); isa_wn(doctor, professional)","(doctor, professional); (pretend, role play)",,nan,,,,,nan,,,,False
+2971285079.jpg#2r1e,KB,Lasha_KB,0.0,0,1,0,"isa_wn(play bass, be musical)",NO_RELATION,,nan,,,,,nan,,,,False
+303607405.jpg#4r3e,KB,Stefan_KB,0.0,0,1,0,NO_RELATION,NO_RELATION,,nan,,,,,nan,,,,False
+3036894037.jpg#1r1e,KB,Lasha_KB,1.0,2,0,0,"isa_wn(commando, soldier); isa_wn(gun, weapon)","(commando, soldier); (gun, weapon)",,nan,,,,,nan,,,,False
+3040999637.jpg#4r1e,KB,Stefan_KB,0.0,0,1,1,"isa_wn(stereo, audio equipment)","(stereo equipment, audio equipment)",,nan,,,,,nan,,,,False
+3046190891.jpg#2r1e,KB,Stefan_KB,0.6666666666666666,1,0,1,"isa_wn(ocean, water)","(ocean, water); (surfer, person)",,nan,,,,,nan,,,,False
+3047788420.jpg#0r1e,KB,Lasha_KB,1.0,1,0,0,"isa_wn(lady, person)","(lady, person)",,nan,,,,,nan,,,,False
+3054989420.jpg#0r1e,KB,Stefan_KB,0.0,0,1,0,NO_RELATION,NO_RELATION,,nan,,,,,nan,,,,False
+3064443326.jpg#2r1e,KB,Lasha_KB,1.0,0,0,0,NO_RELATION,NO_RELATION,,nan,,,,,nan,,,,False
+3072611047.jpg#1r1e,KB,Stefan_KB,0.6666666666666666,1,1,0,"isa_wn(child, human); isa_wn(dive, enter)","(child, human)",,nan,,,,,nan,,,,False
+3091403322.jpg#2r1e,KB,Stefan_KB,1.0,1,0,0,"isa_wn(drum, musical instrument)","(drum, musical instrument)",,nan,,,,,nan,,,,False
+3091921457.jpg#2r1e,KB,Jorryt_KB,1.0,2,0,0,"isa_wn(child, kid); isa_wn(look, stare)","(child, kid); (look, stare)",,nan,,,,,nan,,,,False
+3101378069.jpg#4r1e,KB,Stefan_KB,0.8571428571428571,3,0,1,"isa_wn(lady, woman); isa_wn(canoe, small boat); isa_wn(thing, item)","(canoe, small boat); (lady, woman); (thing, item); (filled, loaded)",,nan,,,,,nan,,,,False
+3106022785.jpg#0r1e,KB,Jorryt_KB,0.0,0,2,0,"isa_wn(dress as dorthy from wizard of oz, wear costume from movie); isa_wn(dress as elephant, wear costume)",NO_RELATION,,nan,,,,,nan,,,,False
+3115354165.jpg#4r1e,KB,Stefan_KB,0.0,0,1,1,"isa_wn(skateboarder, someone on board with four wheel)","(skateboarder, someone)",,nan,,,,,nan,,,,False
+312691128.jpg#1r1e,KB,Ettore_KB,0.8571428571428571,3,1,0,"isa_wn(man, male); isa_wn(pancake, food); isa_wn(flip, cook); isa_wn(toss, cook)","(flip, cook); (pancake, food); (man, male)",,nan,,,,,nan,,,,False
+3134092148.jpg#3r2e,KB,Stefan_KB,0.0,0,1,0,NO_RELATION,NO_RELATION,,nan,,,,,nan,,,,False
+3168293517.jpg#2r1e,KB,Stefan_KB,1.0,0,0,0,NO_RELATION,NO_RELATION,,nan,,,,,nan,,,,False
+3181701312.jpg#2r1e,KB,Stefan_KB,0.6666666666666666,1,1,0,"isa_wn(man, someone); isa_wn(take nap, be asleep)","(man, someone)",,nan,,,,,nan,,,,False
+3182517887.jpg#1r1e,KB,Stefan_KB,1.0,2,0,0,"isa_wn(tattoo, body art); isa_wn(small boy, young person)","(small boy, young person); (tattoo, body art)",,nan,,,,,nan,,,,False
+320199844.jpg#0r1e,KB,Stefan_KB,0.0,0,1,0,"isa_wn(in costume, wear costume)",NO_RELATION,,nan,,,,,nan,,,,False
+3208032657.jpg#2r1e,KB,Lasha_KB,1.0,1,0,0,"isa_wn(powerwash, wash)","(powerwash, wash)",,nan,,,,,nan,,,,False
+3228793611.jpg#4r1e,KB,Ettore_KB,1.0,1,0,0,"isa_wn(dig, play)","(dig, play)",,nan,,,,,nan,,,,False
+3232994074.jpg#4r1e,KB,Stefan_KB,0.8,2,1,0,"isa_wn(man, adult); isa_wn(child, kid); isa_wn(puzzle, activity)","(man, adult); (child, kid)",,nan,,,,,nan,,,,False
+3246724744.jpg#0r1e,KB,Stefan_KB,0.0,0,1,0,"isa_wn(woman, women)",NO_RELATION,,nan,,,,,nan,,,,False
+3256433677.jpg#2r1n,KB,Stefan_KB,0.0,0,2,0,"isa_wn(run, get workout); isa_wn(treadmill, workout)",NO_RELATION,,nan,,,,,nan,,,,False
+326456451.jpg#4r1e,KB,Stefan_KB,1.0,1,0,0,"isa_wn(rottweiler, animal)","(rottweiler, animal)",,nan,,,,,nan,,,,False
+3375549004.jpg#4r1e,KB,Stefan_KB,0.0,0,1,0,"isa_wn(walk in line, walk one behind other)",NO_RELATION,,nan,,,,,nan,,,,False
+3383037991.jpg#3r1e,KB,Lasha_KB,1.0,0,0,0,NO_RELATION,NO_RELATION,,nan,,,,,nan,,,,False
+342289865.jpg#1r1e,KB,Lasha_KB,0.3333333333333333,1,2,2,"isa_wn(man, person); isa_wn(make laugh, cause to be merry); isa_wn(male and female, two others)","(blue jeans, casual clothing); (checkered button up shirt, casual clothing); (man, person)",,nan,,,,,nan,,,,False
+3424908564.jpg#1r1e,KB,Stefan_KB,1.0,1,0,0,"isa_wn(yell, scream)","(yell, scream)",,nan,,,,,nan,,,,False
+3426144752.jpg#0r1e,KB,Lasha_KB,1.0,1,0,0,"isa_wn(wooden airplane, toy airplane)","(wooden airplane, toy airplane)",,nan,,,,,nan,,,,False
+3426724811.jpg#4r1e,KB,Stefan_KB,1.0,1,0,0,"isa_wn(gurnee, gurney)","(gurnee, gurney)",,nan,,,,,nan,,,,False
+3432730942.jpg#0r1e,KB,Lasha_KB,1.0,0,0,0,NO_RELATION,NO_RELATION,,nan,,,,,nan,,,,False
+3440104178.jpg#4r1e,KB,Stefan_KB,1.0,0,0,0,NO_RELATION,NO_RELATION,,nan,,,,,nan,,,,False
+3447155358.jpg#3r1e,KB,Stefan_KB,1.0,0,0,0,NO_RELATION,NO_RELATION,,nan,,,,,nan,,,,False
+3455964125.jpg#0r1e,KB,Lasha_KB,0.0,0,1,2,NO_RELATION,"(ride, moving vehicle); (woman, female)",,nan,,,,,nan,,,,False
+3471514734.jpg#1r1e,KB,Lasha_KB,1.0,2,0,0,"isa_wn(brush, clean); isa_wn(red and yellow, colorful)","(brush, clean); (red and yellow, colorful)",,nan,,,,,nan,,,,False
+347186933.jpg#2r1e,KB,Stefan_KB,1.0,1,0,0,"isa_wn(dangle, hang)","(dangle, hang)",,nan,,,,,nan,,,,False
+3479245321.jpg#4r1e,KB,Stefan_KB,1.0,1,0,0,"isa_wn(campsite, camp)","(campsite, camp)",,nan,,,,,nan,,,,False
+3486059684.jpg#1r1e,KB,Stefan_KB,0.8571428571428571,3,1,0,"isa_wn(restaurant employee, service worker); isa_wn(prepare, make); isa_wn(sandwich, food); isa_wn(highly decorated, nice)","(restaurant employee, service worker); (sandwich, food); (prepare, make)",,nan,,,,,nan,,,,False
+3500136982.jpg#1r1e,KB,Jorryt_KB,1.0,1,0,0,"isa_wn(line, group)","(line, group)",,nan,,,,,nan,,,,False
+3515378674.jpg#2r1e,KB,Ettore_KB,1.0,1,0,0,"isa_wn(indulge, drink)","(indulge, drink)",,nan,,,,,nan,,,,False
+3518365400.jpg#3r1e,KB,Lasha_KB,1.0,1,0,0,"isa_wn(throw, toss)","(throw, toss)",,nan,,,,,nan,,,,False
+3523115345.jpg#4r1e,KB,Lasha_KB,1.0,1,0,0,"isa_wn(videotape, record)","(videotape, record)",,nan,,,,,nan,,,,False
+3552435734.jpg#2r1e,KB,Lasha_KB,0.0,0,1,0,"isa_wn(run through water, get wet)",NO_RELATION,,nan,,,,,nan,,,,False
+3562169000.jpg#0r1e,KB,Stefan_KB,0.4,1,2,1,"isa_wn(slide off, lose control); isa_wn(race car, automobile); isa_wn(median bumper, something)","(bumper, something); (race car, automobile)",,nan,,,,,nan,,,,False
+3584860179.jpg#1r1e,KB,Stefan_KB,1.0,1,0,0,"isa_wn(old, elderly)","(old, elderly)",,nan,,,,,nan,,,,False
+359800617.jpg#0r1e,KB,Lasha_KB,0.6666666666666666,1,1,0,"isa_wn(baby, young child); isa_wn(middle of room, indoors)","(baby, young child)",,nan,,,,,nan,,,,False
+3612249030.jpg#1r1e,KB,Stefan_KB,1.0,2,0,0,"isa_wn(carry, hold); isa_wn(body board, item)","(body board, item); (carry, hold)",,nan,,,,,nan,,,,False
+3613264553.jpg#4r1e,KB,Jorryt_KB,0.0,0,1,0,"isa_wn(rocky hillside, outside)",NO_RELATION,,nan,,,,,nan,,,,False
+3614595423.jpg#4r1e,KB,Lasha_KB,1.0,1,0,0,"isa_wn(child, kid)","(child, kid)",,nan,,,,,nan,,,,False
+3618525295.jpg#2r1e,KB,Stefan_KB,0.4,1,1,2,"isa_wn(dog, pet); isa_wn(outdoor cafe, restaurant)","(cafe, restaurant); (dog, pet); (outdoor, outside)",,nan,,,,,nan,,,,False
+3629664676.jpg#4r1e,KB,Stefan_KB,1.0,1,0,0,"isa_wn(pull, drag)","(pull, drag)",,nan,,,,,nan,,,,False
+3639617775.jpg#0r1e,KB,Stefan_KB,0.5,1,2,0,"isa_wn(bride, woman); isa_wn(groomsmen, other); isa_wn(bridesmaid, other)","(bride, woman)",,nan,,,,,nan,,,,False
+3639967449.jpg#3r1e,KB,Stefan_KB,1.0,0,0,0,NO_RELATION,NO_RELATION,,nan,,,,,nan,,,,False
+36422830.jpg#0r1e,KB,Stefan_KB,1.0,1,0,0,"isa_wn(jeep, vehicle)","(jeep, vehicle)",,nan,,,,,nan,,,,False
+3696246123.jpg#3r1e,KB,Stefan_KB,1.0,1,0,0,"isa_wn(play, romp)","(play, romp)",,nan,,,,,nan,,,,False
+3707585013.jpg#4r1e,KB,Stefan_KB,1.0,3,0,0,"isa_wn(singer, performer); isa_wn(crowd, audience); isa_wn(outside, outdoors)","(crowd, audience); (outside, outdoors); (singer, performer)",,nan,,,,,nan,,,,False
+3726076549.jpg#4r1e,KB,Stefan_KB,0.6666666666666666,1,1,0,"isa_wn(man on bike, biker); isa_wn(slide, glide)","(slide, glide)",,nan,,,,,nan,,,,False
+3732782360.jpg#4r1e,KB,Stefan_KB,0.0,0,1,0,NO_RELATION,NO_RELATION,,nan,,,,,nan,,,,False
+3746285587.jpg#2r1e,KB,Lasha_KB,0.0,0,2,0,"isa_wn(street, ground); isa_wn(in street, outside)",NO_RELATION,,nan,,,,,nan,,,,False
+3760793412.jpg#1r1e,KB,Lasha_KB,1.0,2,0,0,"isa_wn(boy, child); isa_wn(girl, child)","(boy, child); (girl, child)",,nan,,,,,nan,,,,False
+3760799822.jpg#2r1e,KB,Stefan_KB,1.0,1,0,0,"isa_wn(cellphone, cellular device)","(cellphone, cellular device)",,nan,,,,,nan,,,,False
+3791591952.jpg#3r1e,KB,Stefan_KB,1.0,1,0,0,"isa_wn(acrobatic move, acrobatics)","(acrobatic move, acrobatics)",,nan,,,,,nan,,,,False
+3794595430.jpg#3r1e,KB,Stefan_KB,1.0,0,0,0,NO_RELATION,NO_RELATION,,nan,,,,,nan,,,,False
+3799984714.jpg#0r1e,KB,Stefan_KB,1.0,1,0,0,"isa_wn(banjo, musical instrument)","(banjo, musical instrument)",,nan,,,,,nan,,,,False
+381275595.jpg#1r1e,KB,Stefan_KB,0.0,0,1,1,"isa_wn(furry toy, object)","(toy, object)",,nan,,,,,nan,,,,False
+3816820298.jpg#0r1e,KB,Ettore_KB,0.6666666666666666,1,1,0,"isa_wn(horseback, horse); isa_wn(rodeo arena, rodeo event)","(horseback, horse)",,nan,,,,,nan,,,,False
+381750411.jpg#0r1e,KB,Stefan_KB,1.0,1,0,0,"isa_wn(saxophone, woodwind instrument)","(saxophone, woodwind instrument)",,nan,,,,,nan,,,,False
+3825750029.jpg#1r1e,KB,Stefan_KB,1.0,1,0,0,"isa_wn(bicycle, bike)","(bicycle, bike)",,nan,,,,,nan,,,,False
+3827183336.jpg#2r1e,KB,Stefan_KB,0.6666666666666666,1,0,1,"isa_wn(latin american, person)","(latin american, person); (weave, make)",,nan,,,,,nan,,,,False
+3843254402.jpg#0r1e,KB,Stefan_KB,1.0,0,0,0,NO_RELATION,NO_RELATION,,nan,,,,,nan,,,,False
+3860415767.jpg#2r1e,KB,Stefan_KB,1.0,0,0,0,NO_RELATION,NO_RELATION,,nan,,,,,nan,,,,False
+3913959754.jpg#1r1e,KB,Stefan_KB,1.0,1,0,0,"isa_wn(near, close)","(near, close)",,nan,,,,,nan,,,,False
+3937269663.jpg#3r1e,KB,Lasha_KB,1.0,1,0,0,"isa_wn(man, guy)","(man, guy)",,nan,,,,,nan,,,,False
+3947729724.jpg#4r1e,KB,Stefan_KB,0.6666666666666666,1,1,0,"isa_wn(supermarket, store); isa_wn(reach for food, do grocery)","(supermarket, store)",,nan,,,,,nan,,,,False
+3983185073.jpg#4r1e,KB,Lasha_KB,1.0,2,0,0,"isa_wn(observe, look at); isa_wn(antique, old)","(antique, old); (observe, look at)",,nan,,,,,nan,,,,False
+4000008650.jpg#2r1e,KB,Stefan_KB,0.8,2,1,0,"isa_wn(woman, person); isa_wn(tuba, instrument); isa_wn(cello, instrument)","(cello, instrument); (tuba, instrument)",,nan,,,,,nan,,,,False
+4019072184.jpg#4r1e,KB,Stefan_KB,0.0,0,1,0,"isa_wn(protective rope, secure)",NO_RELATION,,nan,,,,,nan,,,,False
+41253213.jpg#1r1e,KB,Stefan_KB,1.0,1,0,0,"isa_wn(cloth covering, canopy)","(cloth covering, canopy)",,nan,,,,,nan,,,,False
+418207489.jpg#3r1n,KB,Lasha_KB,1.0,1,0,0,"isa_wn(hardware warehouse store, hardware store)","(hardware warehouse store, hardware store)",,nan,,,,,nan,,,,False
+4183662919.jpg#3r1e,KB,Stefan_KB,1.0,0,0,0,NO_RELATION,NO_RELATION,,nan,,,,,nan,,,,False
+4241997277.jpg#3r1e,KB,Stefan_KB,1.0,0,0,0,NO_RELATION,NO_RELATION,,nan,,,,,nan,,,,False
+4291704682.jpg#3r1e,KB,Stefan_KB,1.0,3,0,0,"isa_wn(two, couple); isa_wn(sweep, clean); isa_wn(sidewalk, path)","(sidewalk, path); (sweep, clean); (two, couple)",,nan,,,,,nan,,,,False
+4294390957.jpg#3r1e,KB,Stefan_KB,1.0,1,0,0,"isa_wn(talk, speak)","(talk, speak)",,nan,,,,,nan,,,,False
+4309584424.jpg#4r1e,KB,Stefan_KB,1.0,1,0,0,"isa_wn(classroom, class)","(classroom, class)",,nan,,,,,nan,,,,False
+4355004642.jpg#0r1e,KB,Lasha_KB,0.0,0,1,0,"isa_wn(creation, create)",NO_RELATION,,nan,,,,,nan,,,,False
+436393371.jpg#3r1e,KB,Stefan_KB,1.0,1,0,0,"isa_wn(bite, chew)","(bite, chew)",,nan,,,,,nan,,,,False
+4379561906.jpg#4r1e,KB,Stefan_KB,1.0,1,0,0,"isa_wn(office, room)","(office, room)",,nan,,,,,nan,,,,False
+4408862587.jpg#0r1e,KB,Jorryt_KB,0.6666666666666666,1,1,0,"isa_wn(woman, woman); isa_wn(girl, child)","(girl, child)",,nan,,,,,nan,,,,False
+4440438333.jpg#1r1e,KB,Stefan_KB,0.0,0,3,0,"isa_wn(pitcher, person); isa_wn(catcher, person); isa_wn(heave ball, play game)",NO_RELATION,,nan,,,,,nan,,,,False
+4474429098.jpg#2r1e,KB,Jorryt_KB,1.0,1,0,0,"isa_wn(apple laptop, computer)","(apple laptop, computer)",,nan,,,,,nan,,,,False
+4486280757.jpg#0r1e,KB,Lasha_KB,0.0,0,1,0,"isa_wn(on, near)",NO_RELATION,,nan,,,,,nan,,,,False
+4501954896.jpg#2r1e,KB,Lasha_KB,1.0,0,0,0,NO_RELATION,NO_RELATION,,nan,,,,,nan,,,,False
+4513402918.jpg#4r1e,KB,Ettore_KB,0.5,1,1,1,"isa_wn(band, people); isa_wn(jam, play music)","(band, people); (jam, play)",,nan,,,,,nan,,,,False
+4524361920.jpg#0r1e,KB,Stefan_KB,1.0,1,0,0,"isa_wn(woman, lady)","(woman, lady)",,nan,,,,,nan,,,,False
+4546261932.jpg#3r1e,KB,Stefan_KB,1.0,2,0,0,"isa_wn(people, folk); isa_wn(walk, stroll)","(people, folk); (walk, stroll)",,nan,,,,,nan,,,,False
+4569102627.jpg#2r1e,KB,Stefan_KB,1.0,2,0,0,"isa_wn(drink, ingest); isa_wn(juice, liquid)","(drink, ingest); (juice, liquid)",,nan,,,,,nan,,,,False
+4570069538.jpg#4r1e,KB,Lasha_KB,0.4,1,1,2,"isa_wn(large crowd, group); isa_wn(mcdonald's, fast food restaurant)","(crowd, group); (gather, assemble); (mcdonald's, fast food restaurant)",,nan,,,,,nan,,,,False
+4579716766.jpg#4r1e,KB,Stefan_KB,1.0,0,0,0,NO_RELATION,NO_RELATION,,nan,,,,,nan,,,,False
+4586078680.jpg#1r1e,KB,Jorryt_KB,0.6666666666666666,1,0,1,"isa_wn(weave, work)","(weave, work); (woman, she)",,nan,,,,,nan,,,,False
+4603247500.jpg#0r1e,KB,Stefan_KB,1.0,0,0,0,NO_RELATION,NO_RELATION,,nan,,,,,nan,,,,False
+461139075.jpg#2r1e,KB,Stefan_KB,0.0,0,1,1,"isa_wn(lamp that is turned on, lit lamp)","(turned on, lit)",,nan,,,,,nan,,,,False
+4625392581.jpg#1r1e,KB,Stefan_KB,0.8,2,1,0,"isa_wn(boy, person); isa_wn(man, person); isa_wn(get ride, ride)","(boy, person); (man, person)",,nan,,,,,nan,,,,False
+4636978915.jpg#0r1e,KB,Lasha_KB,0.8,2,1,0,"isa_wn(man, male); isa_wn(suit, clothes); isa_wn(opponent, male)","(man, male); (suit, clothes)",,nan,,,,,nan,,,,False
+463848726.jpg#3r1e,KB,Stefan_KB,0.0,0,1,1,"isa_wn(scrap, remove)","(scrap off, remove)",,nan,,,,,nan,,,,False
+463970752.jpg#1r1e,KB,Lasha_KB,1.0,0,0,0,NO_RELATION,NO_RELATION,,nan,,,,,nan,,,,False
+4640148862.jpg#2r1e,KB,Lasha_KB,0.0,0,1,0,NO_RELATION,NO_RELATION,,nan,,,,,nan,,,,False
+4648416380.jpg#0r1e,KB,Lasha_KB,1.0,0,0,0,NO_RELATION,NO_RELATION,,nan,,,,,nan,,,,False
+4662948361.jpg#2r1e,KB,Stefan_KB,1.0,0,0,0,NO_RELATION,NO_RELATION,,nan,,,,,nan,,,,False
+466956209.jpg#1r1e,KB,Ettore_KB,1.0,1,0,0,"isa_wn(mountain, outside)","(mountain, outside)",,nan,,,,,nan,,,,False
+4688301633.jpg#3r1n,KB,Lasha_KB,0.8,2,1,0,"isa_wn(surgeon, doctor); isa_wn(perform, do); isa_wn(surgery, medical operation)","(surgeon, doctor); (surgery, medical operation)",,nan,,,,,nan,,,,False
+4697314878.jpg#1r1e,KB,Stefan_KB,0.6666666666666666,1,1,0,"isa_wn(walk away, leave); isa_wn(bright yellow, red and blue, brightly colored)","(walk away, leave)",,nan,,,,,nan,,,,False
+4703790336.jpg#2r1n,KB,Lasha_KB,1.0,1,0,0,"isa_wn(picked food, crop)","(picked food, crop)",,nan,,,,,nan,,,,False
+4704577040.jpg#1r1e,KB,Stefan_KB,1.0,1,0,0,"isa_wn(pay phone, payphone)","(pay phone, payphone)",,nan,,,,,nan,,,,False
+4718146904.jpg#2r1e,KB,Stefan_KB,1.0,0,0,0,NO_RELATION,NO_RELATION,,nan,,,,,nan,,,,False
+4729191874.jpg#0r1e,KB,Stefan_KB,1.0,1,0,0,"isa_wn(cross, walk)","(cross, walk)",,nan,,,,,nan,,,,False
+4729746211.jpg#1r1e,KB,Stefan_KB,1.0,0,0,0,NO_RELATION,NO_RELATION,,nan,,,,,nan,,,,False
+4734162520.jpg#2r1e,KB,Stefan_KB,0.0,0,1,0,NO_RELATION,NO_RELATION,,nan,,,,,nan,,,,False
+4740975956.jpg#4r1e,KB,Stefan_KB,1.0,0,0,0,NO_RELATION,NO_RELATION,,nan,,,,,nan,,,,False
+4760159167.jpg#3r1e,KB,Lasha_KB,0.5,1,0,2,"isa_wn(sea, water)","(man, person); (next to, near); (sea, water)",,nan,,,,,nan,,,,False
+4769459188.jpg#3r1e,KB,Stefan_KB,1.0,1,0,0,"isa_wn(carry, tote)","(carry, tote)",,nan,,,,,nan,,,,False
+477990943.jpg#0r1e,KB,Stefan_KB,0.0,0,1,0,"isa_wn(take bite, eat)",NO_RELATION,,nan,,,,,nan,,,,False
+4786470364.jpg#0r1e,KB,Stefan_KB,0.8,2,0,1,"isa_wn(man, guy); isa_wn(cap, hat)","(cap, hat); (man, guy); (walk by, walk past)",,nan,,,,,nan,,,,False
+4803960387.jpg#0r1e,KB,Stefan_KB,1.0,1,0,0,"isa_wn(corn, vegetable)","(corn, vegetable)",,nan,,,,,nan,,,,False
+4813609768.jpg#3r1e,KB,Stefan_KB,0.0,0,1,0,"isa_wn(hand on hip, touch self)",NO_RELATION,,nan,,,,,nan,,,,False
+481887827.jpg#3r1e,KB,Lasha_KB,1.0,1,0,0,"isa_wn(campfire, fire)","(campfire, fire)",,nan,,,,,nan,,,,False
+481888930.jpg#1r1e,KB,Lasha_KB,1.0,1,0,0,"isa_wn(sweep, clean)","(sweep, clean)",,nan,,,,,nan,,,,False
+4820830153.jpg#0r1e,KB,Stefan_KB,1.0,1,0,0,"isa_wn(coca-cola, soft drink)","(coca-cola, soft drink)",,nan,,,,,nan,,,,False
+4833879670.jpg#0r1e,KB,Jorryt_KB,0.6666666666666666,2,1,1,"isa_wn(play guitar, perform); isa_wn(sing, perform); isa_wn(sidewalk, outside)","(sidewalk, outside); (play, perform); (sing, perform)",,nan,,,,,nan,,,,False
+4851047049.jpg#3r1e,KB,Stefan_KB,1.0,1,0,0,"isa_wn(guitar, instrument)","(guitar, instrument)",,nan,,,,,nan,,,,False
+4876043682.jpg#2r1e,KB,Lasha_KB,1.0,1,0,0,"isa_wn(camel, animal)","(camel, animal)",,nan,,,,,nan,,,,False
+4887879873.jpg#2r1e,KB,Stefan_KB,1.0,1,0,0,"isa_wn(man, person)","(man, person)",,nan,,,,,nan,,,,False
+4894267064.jpg#3r1e,KB,Stefan_KB,0.0,0,1,0,"isa_wn(next to, by)",NO_RELATION,,nan,,,,,nan,,,,False
+4909669888.jpg#2r1e,KB,Stefan_KB,1.0,1,0,0,"isa_wn(cellphone, phone)","(cellphone, phone)",,nan,,,,,nan,,,,False
+4915658588.jpg#4r1e,KB,Stefan_KB,1.0,2,0,0,"isa_wn(chat, talk); isa_wn(street corner, outside)","(chat, talk); (street corner, outside)",,nan,,,,,nan,,,,False
+4929903531.jpg#1r1e,KB,Lasha_KB,1.0,1,0,0,"isa_wn(child, person)","(child, person)",,nan,,,,,nan,,,,False
+493507605.jpg#2r1e,KB,Lasha_KB,1.0,1,0,0,"isa_wn(grass, lawn)","(grass, lawn)",,nan,,,,,nan,,,,False
+4935241932.jpg#3r1e,KB,Stefan_KB,0.0,0,1,0,"isa_wn(door, outside)",NO_RELATION,,nan,,,,,nan,,,,False
+4938897545.jpg#4r1e,KB,Stefan_KB,1.0,1,0,0,"isa_wn(motorcycle rider, motorcyclist)","(motorcycle rider, motorcyclist)",,nan,,,,,nan,,,,False
+4950416860.jpg#3r1e,KB,Stefan_KB,1.0,1,0,0,"isa_wn(canoe, boat)","(canoe, boat)",,nan,,,,,nan,,,,False
+4979886037.jpg#3r1e,KB,Stefan_KB,0.0,0,1,1,"isa_wn(smile, happy)","(smiling, happy)",,nan,,,,,nan,,,,False
+4980505768.jpg#1r1e,KB,Stefan_KB,1.0,1,0,0,"isa_wn(snow white, fairy tale character)","(snow white, fairy tale character)",,nan,,,,,nan,,,,False
+4985197970.jpg#0r1e,KB,Stefan_KB,0.0,0,1,0,"isa_wn(sunny, shine)",NO_RELATION,,nan,,,,,nan,,,,False
+4985197970.jpg#3r1e,KB,Stefan_KB,0.0,0,1,0,"isa_wn(person walking, not empty)",NO_RELATION,,nan,,,,,nan,,,,False
+501699433.jpg#0r1e,KB,Lasha_KB,1.0,2,0,0,"isa_wn(boy, kid); isa_wn(girl, kid)","(boy, kid); (girl, kid)",,nan,,,,,nan,,,,False
+5042057368.jpg#3r1e,KB,Lasha_KB,1.0,1,0,0,"isa_wn(lamb, animal)","(lamb, animal)",,nan,,,,,nan,,,,False
+506442755.jpg#3r1e,KB,Stefan_KB,1.0,1,0,0,"isa_wn(socialize, get together)","(socialize, get together)",,nan,,,,,nan,,,,False
+507035997.jpg#2r1e,KB,Stefan_KB,0.0,0,1,0,"isa_wn(cook kabob on barbecue, have cookout)",NO_RELATION,,nan,,,,,nan,,,,False
+507746329.jpg#3r1e,KB,Lasha_KB,1.0,1,0,0,"isa_wn(child, kid)","(child, kid)",,nan,,,,,nan,,,,False
+51145797.jpg#4r1e,KB,Stefan_KB,0.0,0,1,0,"isa_wn(green forest, not dead forest)",NO_RELATION,,nan,,,,,nan,,,,False
+5217397101.jpg#3r1e,KB,Lasha_KB,1.0,1,0,0,"isa_wn(nun, woman)","(nun, woman)",,nan,,,,,nan,,,,False
+5218695756.jpg#0r1e,KB,Lasha_KB,0.6666666666666666,1,1,0,"isa_wn(hover, stand); isa_wn(stand, display)","(stand, display)",,nan,,,,,nan,,,,False
+5262731925.jpg#3r1e,KB,Lasha_KB,0.0,0,1,1,"isa_wn(operate heavy machinery, do construction work)","(road construction, construction work)",,nan,,,,,nan,,,,False
+5266194002.jpg#0r1e,KB,Stefan_KB,1.0,1,0,0,"isa_wn(bake, cook)","(bake, cook)",,nan,,,,,nan,,,,False
+5280521648.jpg#0r1e,KB,Stefan_KB,0.5,1,2,0,"isa_wn(young man, person); isa_wn(young woman, person); isa_wn(read, reference)","(read, reference)",,nan,,,,,nan,,,,False
+530661899.jpg#2r1e,KB,Stefan_KB,0.0,0,1,0,"isa_wn(women, woman)",NO_RELATION,,nan,,,,,nan,,,,False
+533601247.jpg#2r1e,KB,Stefan_KB,0.0,0,1,0,"isa_wn(in sandals, wear sandal)",NO_RELATION,,nan,,,,,nan,,,,False
+5430568615.jpg#4r1e,KB,Lasha_KB,1.0,0,0,0,NO_RELATION,NO_RELATION,,nan,,,,,nan,,,,False
+5436986554.jpg#1r1e,KB,Stefan_KB,1.0,0,0,0,NO_RELATION,NO_RELATION,,nan,,,,,nan,,,,False
+552863655.jpg#3r1e,KB,Lasha_KB,0.0,0,1,0,"isa_wn(kiss, show affection)",NO_RELATION,,nan,,,,,nan,,,,False
+562928217.jpg#4r1e,KB,Lasha_KB,0.6666666666666666,1,1,0,"isa_wn(go after, chase); isa_wn(tennis ball, ball)","(go after, chase)",,nan,,,,,nan,,,,False
+5728602543.jpg#4r1e,KB,Lasha_KB,0.0,0,2,1,"isa_wn(look at, watch); isa_wn(barbie doll, doll)","(look, watch)",,nan,,,,,nan,,,,False
+5770115416.jpg#3r1e,KB,Stefan_KB,0.0,0,1,3,"isa_wn(paint, create art)","(elderly, old); (paint, creat); (picture, art)",,nan,,,,,nan,,,,False
+5791070.jpg#3r1e,KB,Stefan_KB,1.0,1,0,0,"isa_wn(interior, inside)","(interior, inside)",,nan,,,,,nan,,,,False
+5871026012.jpg#3r1e,KB,Lasha_KB,0.0,0,1,1,NO_RELATION,"(golfer, human)",,nan,,,,,nan,,,,False
+6167481552.jpg#3r1e,KB,Stefan_KB,1.0,1,0,0,"isa_wn(half empty, not full)","(half empty, not full)",,nan,,,,,nan,,,,False
+6167481552.jpg#3r1n,KB,Stefan_KB,0.0,0,1,0,"isa_wn(football team, game)",NO_RELATION,,nan,,,,,nan,,,,False
+6220789654.jpg#3r1e,KB,Lasha_KB,0.0,0,1,0,"isa_wn(play cello, make music)",NO_RELATION,,nan,,,,,nan,,,,False
+6285562381.jpg#2r1e,KB,Stefan_KB,0.0,0,1,1,"isa_wn(grassy hillside, outdoors)","(hillside, outdoors)",,nan,,,,,nan,,,,False
+6326513189.jpg#3r1e,KB,Stefan_KB,0.0,0,1,0,NO_RELATION,NO_RELATION,,nan,,,,,nan,,,,False
+6336028231.jpg#0r1e,KB,Stefan_KB,0.0,0,1,0,"isa_wn(skydiving, jump from plane)",NO_RELATION,,nan,,,,,nan,,,,False
+6473658975.jpg#3r1e,KB,Stefan_KB,0.0,0,1,0,"isa_wn(glass, accessory)",NO_RELATION,,nan,,,,,nan,,,,False
+65847949.jpg#1r3e,KB,Lasha_KB,0.0,0,1,1,"isa_wn(outdoor, outdoors)","(patio, outdoors)",,nan,,,,,nan,,,,False
+686293997.jpg#4r1e,KB,Stefan_KB,0.0,0,1,0,NO_RELATION,NO_RELATION,,nan,,,,,nan,,,,False
+697582336.jpg#3r1e,KB,Lasha_KB,1.0,2,0,0,"isa_wn(german shepherd, dog); isa_wn(park, outside)","(german shepherd, dog); (park, outside)",,nan,,,,,nan,,,,False
+7081260077.jpg#3r1e,KB,Stefan_KB,0.0,0,1,0,NO_RELATION,NO_RELATION,,nan,,,,,nan,,,,False
+7123721879.jpg#0r1e,KB,Stefan_KB,0.4,1,1,2,"isa_wn(runner, jogger); isa_wn(jog, jog)","(clothed, dressed); (runner, jogger); (next to, near)",,nan,,,,,nan,,,,False
+72010421.jpg#0r1e,KB,Stefan_KB,0.0,0,1,0,"isa_wn(stuffed duck, duck)",NO_RELATION,,nan,,,,,nan,,,,False
+7292157214.jpg#0r1e,KB,Lasha_KB,1.0,0,0,0,NO_RELATION,NO_RELATION,,nan,,,,,nan,,,,False
+7308951892.jpg#0r1e,KB,Stefan_KB,1.0,1,0,0,"isa_wn(construction worker, person)","(construction worker, person)",,nan,,,,,nan,,,,False
+7391785714.jpg#4r1e,KB,Lasha_KB,0.0,0,1,0,NO_RELATION,NO_RELATION,,nan,,,,,nan,,,,False
+7417714642.jpg#0r1e,KB,Stefan_KB,1.0,0,0,0,NO_RELATION,NO_RELATION,,nan,,,,,nan,,,,False
+74759622.jpg#0r1e,KB,Stefan_KB,1.0,1,0,0,"isa_wn(toilet, bathroom)","(toilet, bathroom)",,nan,,,,,nan,,,,False
+761479953.jpg#2r1e,KB,Stefan_KB,0.4,1,1,2,"isa_wn(young boy, kid); isa_wn(goggle, eye protection)","(goggles, eye protection); (pool, water); (young boy, kid)",,nan,,,,,nan,,,,False
+7671653534.jpg#2r1e,KB,Stefan_KB,0.0,0,1,0,"isa_wn(bicyclist, bike)",NO_RELATION,,nan,,,,,nan,,,,False
+7700959654.jpg#4r1e,KB,Stefan_KB,0.0,0,2,0,"isa_wn(woman, person); isa_wn(man, person)",NO_RELATION,,nan,,,,,nan,,,,False
+7724666074.jpg#3r1e,KB,Stefan_KB,1.0,1,0,0,"isa_wn(dirt hill, outside)","(dirt hill, outside)",,nan,,,,,nan,,,,False
+7757111016.jpg#1r1e,KB,Alternative_KB,1.0,2,0,0,"isa_wn(maintenance worker, person); isa_wn(small girl, child)","(small girl, child); (maintenance worker, person)",,nan,,,,,nan,,,,False
+7764955218.jpg#4r1e,KB,Lasha_KB,1.0,1,0,0,"isa_wn(medal, award)","(medal, award)",,nan,,,,,nan,,,,False
+78347259.jpg#4r1e,KB,Stefan_KB,0.0,0,1,1,"isa_wn(korean gentleman, person)","(gentleman, person)",,nan,,,,,nan,,,,False
+7852369036.jpg#0r1e,KB,Stefan_KB,0.0,0,1,3,NO_RELATION,"(olympics, international competition); (racket, sporting equipment); (badminton player, contestant)",,nan,,,,,nan,,,,False
+7852369036.jpg#2r1e,KB,Lasha_KB,0.0,0,1,1,"isa_wn(sprawl, lay)","(sprawl out, lay)",,nan,,,,,nan,,,,False
+7979042317.jpg#0r1e,KB,Stefan_KB,1.0,1,0,0,"isa_wn(enjoy, eat)","(enjoy, eat)",,nan,,,,,nan,,,,False
+8159685316.jpg#1r1e,KB,Stefan_KB,0.0,0,1,0,NO_RELATION,NO_RELATION,,nan,,,,,nan,,,,False
+8182074427.jpg#3r1e,KB,Stefan_KB,1.0,0,0,0,NO_RELATION,NO_RELATION,,nan,,,,,nan,,,,False
+823425327.jpg#4r1e,KB,Stefan_KB,1.0,1,0,0,"isa_wn(converse, talk)","(converse, talk)",,nan,,,,,nan,,,,False
+82945847.jpg#0r1n,KB,Stefan_KB,1.0,0,0,0,NO_RELATION,NO_RELATION,,nan,,,,,nan,,,,False
+86112925.jpg#0r1e,KB,Lasha_KB,0.0,0,1,0,NO_RELATION,NO_RELATION,,nan,,,,,nan,,,,False
+89332423.jpg#4r1e,KB,Lasha_KB,1.0,2,0,0,"isa_wn(man, person); isa_wn(swordfish, fish)","(man, person); (swordfish, fish)",,nan,,,,,nan,,,,False
+92413203.jpg#0r1e,KB,Ettore_KB,1.0,1,0,0,"isa_wn(lead, walk)","(lead, walk)",,nan,,,,,nan,,,,False
+941641803.jpg#3r1e,KB,Alternative_KB,0.8,2,0,1,"isa_wn(toddler, small child); isa_wn(grass, outside)","(toddler, small child); (toy, play); (grass, outside)",,nan,,,,,nan,,,,False
+952171414.jpg#2r1e,KB,Stefan_KB,0.6666666666666666,2,1,1,"isa_wn(converse, talk); isa_wn(next, near); isa_wn(bus, vehicle)","(bus, vehicle); (converse, talk); (next to, near)",,nan,,,,,nan,,,,False
+96056569.jpg#3r1e,KB,Stefan_KB,0.0,0,1,0,"isa_wn(woman and man, people)",NO_RELATION,,nan,,,,,nan,,,,False
+973353650.jpg#3r1e,KB,Stefan_KB,0.6666666666666666,1,0,1,"isa_wn(dilapidated, old)","(dilapidated, old); (elder, old)",,nan,,,,,nan,,,,False
+976581518.jpg#0r1e,KB,Stefan_KB,1.0,1,0,0,"isa_wn(creation, invention)","(creation, invention)",,nan,,,,,nan,,,,False
+985982384.jpg#3r1e,KB,Stefan_KB,0.0,0,1,1,"isa_wn(swimsuit, clothes for beach)","(swimsuit, clothes for the beach)",,nan,,,,,nan,,,,False
+98756067.jpg#1r1e,KB,Jorryt_KB,0.0,0,1,0,NO_RELATION,NO_RELATION,,nan,,,,,nan,,,,False
+vg_len120r5e,KB,Ettore_KB,1.0,1,0,0,"isa_wn(blue, visible)","(blue, visible)",,nan,,,,,nan,,,,False
+vg_len26r4e,KB,Lasha_KB,1.0,1,0,0,"isa_wn(spectator, onlooker)","(spectator, onlooker)",,nan,,,,,nan,,,,False
+vg_len46r5e,KB,Ettore_KB,1.0,1,0,0,"isa_wn(white, not black)","(white, not black)",,nan,,,,,nan,,,,False
+vg_len47r3e,KB,Lasha_KB,0.0,0,1,0,NO_RELATION,NO_RELATION,,nan,,,,,nan,,,,False
+vg_len47r4e,KB,Stefan_KB,0.0,0,1,0,"isa_wn(white, not black)",NO_RELATION,,nan,,,,,nan,,,,False
+vg_len66r1e,KB,Lasha_KB,0.0,0,1,0,NO_RELATION,NO_RELATION,,nan,,,,,nan,,,,False
+vg_len84r1e,KB,Stefan_KB,1.0,1,0,0,"isa_wn(gleaming, bright)","(gleaming, bright)",,nan,,,,,nan,,,,False

@@ -1,0 +1,5 @@
+﻿prompt,model,model_slug,items,repeats,total_runs,valid_runs,error_runs,error_rate,complete_items,all_runs_identical_items,all_runs_identical_rate,mean_pairwise_exact,mean_pairwise_kb_f1,no_relation_flip_items,no_relation_flip_rate,mean_unique_kb_sets_per_item,avg_relations_per_valid_run
+lasha,google/gemini-3.1-flash-lite,google_gemini-3.1-flash-lite,280,5,1400,1400,0,0.0,280,280,1.0,1.0,1.0,0,0.0,1.0,1.1714285714285715
+lasha_explanation,google/gemini-3.1-flash-lite,google_gemini-3.1-flash-lite,280,5,1400,1400,0,0.0,280,280,1.0,1.0,1.0,0,0.0,1.0,1.1892857142857143
+lasha_explanation_examples,google/gemini-3.1-flash-lite,google_gemini-3.1-flash-lite,280,5,1400,1400,0,0.0,280,280,1.0,1.0,1.0,0,0.0,1.0,1.1571428571428573
+lasha_highlights,google/gemini-3.1-flash-lite,google_gemini-3.1-flash-lite,280,5,1400,1400,0,0.0,280,280,1.0,1.0,1.0,0,0.0,1.0,1.1428571428571428
